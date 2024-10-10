@@ -1,0 +1,728 @@
+event_id,title,date,location,canceled
+f7be24574c4e4684ba417f0f7a6e6d73,UFC 78 - Validation,2007-11-17,"Prudential Center, Newark, New Jersey, United States",False
+2b92e66ec5884d8f95af26898b33bf69,UFC 77 - Hostile Territory,2007-10-20,"U.S. Bank Arena, Cincinnati, Ohio, United States",False
+4d92806e7ea444a5b8976ce1de2a6e11,UFC 76 - Knockout,2007-09-22,"Honda Center, Anaheim, California, United States",False
+534eb5f65e0b4c2782b013f5cf1d3dc2,UFC Fight Night 11 - Thomas vs. Florian,2007-09-19,"Palms Casino Resort, Las Vegas, Nevada, United States",False
+32641e6c399447d8b0a145d2612b7dd0,UFC 75 - Champion vs. Champion,2007-09-08,"O2 Arena, London, England",False
+c0c6e79a0a554a899c21777a0918e400,UFC 74 - Respect,2007-08-25,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+85e1a1c1bc764a3e9be3a80823add831,UFC 73 - Stacked,2007-07-07,"ARCO Arena, Sacramento, California, United States",False
+11a8465d67524f5abe4dd05dc2cba24d,UFC - The Ultimate Fighter 5 Finale,2007-06-23,"Palms Casino Resort, Las Vegas, Nevada, United States",False
+c9ad175c87c942c4a0e86842add26198,UFC 72 - Victory,2007-06-16,"The Odyssey, Belfast, Northern Ireland",False
+517c1c6eed1e4221b37eb91d860a5c9e,UFC Fight Night 10 - Stout vs. Fisher 2,2007-06-12,"Seminole Hard Rock Hotel and Casino, Hollywood, Florida, United States",False
+c5034c027c0f4e9ba49523df3371ae30,UFC 71 - Liddell vs. Jackson,2007-05-26,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+52ba990be7434d08a08dcbefdfaf938d,UFC 70 - Nations Collide,2007-04-21,"Manchester Evening News Arena, Manchester, Lancashire, England",False
+71cd02256c254f28b919cb3e1d71b870,UFC 69 - Shootout,2007-04-07,"Toyota Center, Houston, Texas, United States",False
+26139a664d87477eb5c21bc6186cf75c,UFC Fight Night 9 - Stevenson vs. Guillard,2007-04-05,"Palms Casino Resort, Las Vegas, Nevada, United States",False
+54a7a65220da4548a43bb2f723899d16,UFC 68 - Uprising,2007-03-03,"Nationwide Arena, Columbus, Ohio, United States",False
+74cc607bdeda48b8b6f0a1d3e7d864b6,UFC 67 - All or Nothing,2007-02-03,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+e09757ccce414e9ba191c14960f7a6c0,UFC Fight Night 8 - Evans vs. Salmon,2007-01-25,"Seminole Hard Rock Hotel and Casino, Hollywood, Florida, United States",False
+94c11cbb0b32441db8bc27dfff0e95ad,UFC 66 - Liddell vs. Ortiz 2,2006-12-30,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+b35f6b243cdf4613b9a172d2a3151931,UFC Fight Night 7 - Sanchez vs. Riggs,2006-12-13,"Marine Corps Air Station Miramar, San Diego, California, United States",False
+e731b515b44a4af9a8970a2d022a148f,UFC 65 - Bad Intentions,2006-11-18,"ARCO Arena, Sacramento, California, United States",False
+3a9b6ecdc8f74676a29c7e98bdb87e41,UFC - The Ultimate Fighter 4 Finale,2006-11-11,"Hard Rock Hotel and Casino, Las Vegas, Nevada, United States",False
+cc4670f0ac54492db72c1eac9b5d5fa0,UFC 64 - Unstoppable,2006-10-14,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+6b0b3dbcb7bf482791ccae0d48f64cf8,UFC Fight Night 6.5 - Ortiz vs. Shamrock 3,2006-10-10,"Seminole Hard Rock Hotel and Casino, Hollywood, Florida, United States",False
+1b2aedada3294c45bab122f514541cbe,UFC 63 - Hughes vs. Penn 2,2006-09-23,"Honda Center, Anaheim, California, United States",False
+913a71ab020c4e948593c0d19ef88c4d,UFC 62 - Liddell vs. Sobral,2006-08-26,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+d7aaa3260c04408d90730778c9cd7e37,UFC Fight Night 6 - Sanchez vs. Parisyan,2006-08-17,"Red Rock Casino Resort and Spa, Las Vegas, Nevada, United States",False
+e26da8c427bb44cdb0d934fb8a881cbb,UFC 61 - Bitter Rivals,2006-07-08,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+815896b6d84841eb8af7355fd74e5b22,UFC Fight Night 5 - Leben vs. Silva,2006-06-28,"Hard Rock Hotel and Casino, Las Vegas, Nevada, United States",False
+0288c2c4b5ea453caeeff9f4e978047c,UFC - The Ultimate Fighter 3 Finale,2006-06-24,"Hard Rock Hotel and Casino, Las Vegas, Nevada, United States",False
+15bc80dd93e14996a72045054284bc57,UFC 60 - Hughes vs. Gracie,2006-05-27,"Staples Center, Los Angeles, California, United States",False
+b110fed677f84781b6dd5f4b9c431bb1,UFC 59 - Reality Check,2006-04-15,"Honda Center, Anaheim, California, United States",False
+9cf6d044fb5e40e5b7b5a9f36204a82c,UFC Fight Night 4 - Bonnar vs. Jardine,2006-04-06,"Hard Rock Hotel and Casino, Las Vegas, Nevada, United States",False
+77d66be0f69446d6b88a4d892b7f5931,UFC 58 - USA vs. Canada,2006-03-04,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+92d780996f3c41cbbd1d56baf4df96ae,UFC 57 - Liddell vs. Couture 3,2006-02-04,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+3de0892652984dfbb941d82be1d847ab,UFC Fight Night 3 - Sylvia vs. Silva,2006-01-16,"Hard Rock Hotel and Casino, Las Vegas, Nevada, United States",False
+65b2dcfae227456ca95e1ed5b16bec56,UFC 56 - Full Force,2005-11-19,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+8365150e7aab4e308d00025b5d3e389d,UFC - The Ultimate Fighter 2 Finale,2005-11-05,"Hard Rock Hotel and Casino, Las Vegas, Nevada, United States",False
+c174ac78cae94bc0b7d9da02109a4a52,UFC 55 - Fury,2005-10-07,"Mohegan Sun Arena, Uncasville, Connecticut, United States",False
+bbdbc9042d954755be77681af3df690e,UFC Fight Night 2 - Loiseau vs. Tanner,2005-10-03,"Hard Rock Hotel and Casino, Las Vegas, Nevada, United States",False
+ea63207f2acf482e96d1d4bf0766f3a1,UFC 54 - Boiling Point,2005-08-20,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+a876e39ab6ff49d0b660795a4aff46b7,UFC Fight Night 1 - Marquardt vs. Salaverry,2005-08-06,"Cox Pavillion, Las Vegas, Nevada, United States",False
+8b8e9de2c2be419db686161198218aaf,UFC 53 - Heavy Hitters,2005-06-04,"Boardwalk Hall, Atlantic City, New Jersey, United States",False
+0df33c6f4a5443c4b2f2edeedc2e3131,UFC 52 - Couture vs. Liddell 2,2005-04-16,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+d99ab39be8b24e2da91cb869e0c1c12d,UFC - The Ultimate Fighter 1 Finale,2005-04-09,"Cox Pavilion, Las Vegas, Nevada, United States",False
+64ed4fd84c044f62887c3369aa1cf23f,UFC 51 - Super Saturday,2005-02-05,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+03abdb217c8f4edcbafec034692ae1ae,UFC 50 - The War of '04,2004-10-22,"Boardwalk Hall, Atlantic City, New Jersey, United States",False
+a1ae3d32aeed4e8dab181119c63d7ebe,UFC 49 - Unfinished Business,2004-08-21,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+bb5ce4fa4b08486ca04f447988fca4b0,UFC 48 - Payback,2004-06-19,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+9c44814fdefe4af89fc438a513037c52,UFC 47 - It's On,2004-04-02,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+cdeb6524b85d44aeb515898638cb66fe,UFC 46 - Supernatural,2004-01-31,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+216d3a8e6f9c4475a275a4b88d70842d,UFC 45 - Revolution,2003-11-21,"Mohegan Sun Arena, Uncasville, Conneticut, United States",False
+b93dc44e9838415c89051a97a8bed8fb,UFC 44 - Undisputed,2003-09-26,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+490b472be9c848c8900a8676ed2a459f,UFC 43 - Meltdown,2003-06-06,"Thomas and Mack Center, Las Vegas, Nevada, United States",False
+553bb60e3b5b46c09d58a646cc2a72fa,UFC 42 - Sudden Impact,2003-04-25,"American Airlines Arena, Miami, Florida, United States",False
+a83f5b581d6b4ed58f026d177ae1deb4,UFC 41 - Onslaught,2003-02-28,"Boardwalk Hall, Atlantic City, New Jersey, United States",False
+a0aab01c80c149e29de4599acee13241,UFC 40 - Vendetta,2002-11-22,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+f1ec4b2c96d24062b040a1f9ae839859,UFC 39 - The Warriors Return,2002-09-27,"Mohegan Sun Arena, Uncasville, Conneticut, United States",False
+d1f33f3763904cfb937dc92e9613535d,UFC 38 - Brawl at the Hall,2002-07-13,"Royal Albert Hall, London, England",False
+6ae253fa1e6d47ea8d73e74e46070fcf,UFC 37.5 - As Real As It Gets,2002-06-22,"Bellagio Hotel and Casino, Las Vegas, Nevada, United States",False
+3a05465936de48d1a52254e9ed805fd7,UFC 37 - High Impact,2002-05-10,"CenturyTel Center, Bossier City, Louisiana, United States",False
+7c5f668cdf1f427eb5808b3bf1599216,UFC 36 - Worlds Collide,2002-03-22,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+3eab262bec70496d988d0c4a4b1e71cb,UFC 35 - Throwdown,2002-01-11,"Mohegan Sun Arena, Uncasville, Conneticut, United States",False
+98405766918a4bce9ad1466d7b4905c5,UFC 34 - High Voltage,2001-11-02,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+a0a380d34fab407c85099ff7491a1a8a,UFC 33 - Victory in Vegas,2001-09-28,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+13b637dd38e14c17b209159108913b7e,UFC 32 - Showdown in the Meadowlands,2001-06-29,"Continental Airlines Arena, East Ruthorford, New Jersey, United States",False
+4b314041dbed4aefa7c8eed298bf9d93,UFC 31 - Locked & Loaded,2001-05-04,"Trump Taj Mahal, Atlantic City, New Jersey, United States",False
+b022d1873d264526860a2817d8166b0d,UFC 30 - Battle on the Boardwalk,2001-02-23,"Trump Taj Mahal, Atlantic City, New Jersey, United States",False
+6ff60379a10e4fb58348a5b90b32404f,UFC 29 - Defense of the Belts,2000-12-16,"Differ Ariake, Tokyo, Japan",False
+400abf403e1f41ae84cf66ddf091b3b0,UFC 28 - High Stakes,2000-11-17,"Trump Taj Mahal, Atlantic City, New Jersey, United States",False
+048ceae3841b495f936065735823f227,UFC 27 - Ultimate Bad Boyz,2000-09-22,"Lakefront Arena, New Orleans, Louisiana, United States",False
+568ae8bb5f124138b88131d6657cef13,UFC 26 - Ultimate Field of Dreams,2000-06-09,"U.S. Cellular Center, Cedar Rapids, Iowa, United States",False
+4872ffe15ced44c78d7bb55c7f5cfaea,UFC 25 - Ultimate Japan 3,2000-04-14,"Yoyogi National Gymnasium, Tokyo, Japan",False
+91b54af9431f49b29235c29aba05e2e6,UFC 24 - First Defense,2000-03-10,"Lake Charles Civic Center, Lake Charles, Louisiana, United States",False
+b6b7a8e400f34573bd26565e084d295c,UFC 23 - Ultimate Japan 2,1999-11-19,"Tokyo Bay N.K. Hall, Urayasu, Chiba, Japan",False
+90a87da77a554343ad7131858186072b,UFC 22 - There Can Be Only One Champion,1999-09-24,"Lake Charles Civic Center, Lake Charles, Louisiana, United States",False
+d249dc6ff3cf43b1a7fe9842f699b811,UFC 21 - Return of the Champions,1999-07-16,"U.S. Cellular Center, Cedar Rapids, Iowa, United States",False
+479e7b1042574bdb8d71a5bdc7a1902e,UFC 20 - Battle for the Gold,1999-05-07,"Boutwell Municipal Auditorium, Birmingham, Alabama, United States",False
+ac3c266273c64ea7af6858f65f94bd8f,UFC 19 - Ultimate Young Guns,1999-03-05,"Hollywood Casino, Bay St. Louis, Mississippi, United States",False
+e2c9138fc91a435e8d48b98d60f99703,UFC 18 - Road to the Heavyweight Title,1999-01-08,"Pontchartrain Center, Kenner, Louisiana, United States",False
+daa0da90a35742baa36b86844d01a8a7,UFC 17.5 - Ultimate Brazil,1998-10-16,"Portuguesa Gymnasium, Sao Paulo, Brazil",False
+bb2c3abe9f5b4ae88f822742e84c7abf,UFC 17 - Redemption,1998-05-15,"Mobile Civic Center, Mobile, Alabama, United States",False
+1f34a32e7692493b99d1214e7d4300a2,UFC 16 - Battle in the Bayou,1998-03-13,"Pontchartrain Center, Kenner, Louisiana, United States",False
+568ae485ee8a4509ab7d2a41c5b207ae,UFC 15.5 - Ultimate Japan 1,1997-12-21,"Yokohama Arena, Yokohama, Japan",False
+23990adb1478491493e9fd157b1093e0,UFC 15 - Collision Course,1997-10-17,"Hollywood Casino, Bay St. Louis, Mississippi, United States",False
+e3c996234d164b4c811c2d89726f5769,UFC 14 - Showdown,1997-07-27,"Boutwell Municipal Auditorium, Birmingham, Alabama, United States",False
+5957d8e7f2ad446988fd8d5fd9aa8203,UFC 13 - The Ultimate Force,1997-05-30,"Augusta Civic Center, Augusta, Georgia, United States",False
+485b6a21d1d243abaeb437fade54c9a0,UFC 12 - Judgement Day,1997-02-07,"Dothan Civic Center Arena, Dothan, Alabama, United States",False
+6524b8fcd0d24cc0bf98c1ad98ad7cbf,UFC - Ultimate Ultimate 1996,1996-12-07,"Alabama State Fair Arena, Birmingham, Alabama, United States",False
+21f9fc8e230c42d5aeef55a667682273,UFC 11 - The Proving Ground,1996-09-20,"Augusta Civic Center, Augusta, Georgia, United States",False
+330b9a1a68664ceea58690991d62683c,UFC 10 - The Tournament,1996-07-12,"Alabama State Fair Arena, Birmingham, Alabama, United States",False
+81d1d1912cd84f75a52d7a3199ae1132,UFC 9 - Motor City Madness,1996-05-17,"Cobo Arena, Detroit, Michigan, United States",False
+1d493eb7f6154a6980323972012ebdc1,UFC 8 - David vs. Goliath,1996-02-16,"Ruben Rodriguez Coliseum, San Juan, Puerto Rico",False
+972ae97d9780425c9a1c528041f4aeff,UFC - Ultimate Ultimate 1995,1995-12-16,"Mammoth Gardens, Denver, Colorado, United States",False
+07a3ffb2d03b451f8d01757b7e87ce2b,UFC 7 - The Brawl in Buffalo,1995-09-08,"Buffalo Memorial Auditorium, Buffalo, New York, United States",False
+414e5f6ea390450e973f84d52f50718e,UFC 6 - Clash of the Titans,1995-07-14,"Casper Events Center, Casper, Wyoming, United States",False
+dd8cfa44da18413695f50d972d091d2d,UFC 5 - The Return of the Beast,1995-04-07,"Bojangles' Coliseum, Charlotte, North Carolina, United States",False
+bc87fc31355948cba539054ba59c5bfe,UFC 4 - Revenge of the Warriors,1994-12-16,"Expo Square Pavilion, Tulsa, Oklahoma, United States",False
+030f274c0757489cab8bdc493f4d694e,UFC 3 - The American Dream,1994-09-09,"Grady Cole Center, Charlotte, North Carolina, United States",False
+4f1827f9073e487d88dd1ac10406504b,UFC 2 - No Way Out,1994-03-11,"Fillmore Auditorium, Denver, Colorado, United States",False
+4b069f6e26c54b8eb377837c93399621,UFC 1 - The Beginning,1993-11-12,"McNichols Arena, Denver, Colorado, United States",False
+11483c88f62c46769c96750f9e3dbce3,UFC 302 - Makhachev vs. Poirier,2024-06-01,"Prudential Center, Newark, New Jersey, United States",False
+8a3b0f1c13a94352bc8bdc593a765808,UFC - Road to UFC Season 3: Shanghai Quarterfinals 4,2024-05-19,"UFC Performance Institute, Shanghai, China",False
+a5cbdf2b1e06457bb8169f5564d71779,UFC - Road to UFC Season 3: Shanghai Quarterfinals 3,2024-05-19,"UFC Performance Institute, Shanghai, China",False
+692990bb0eec4b0eb770cf1cffa2ddd5,UFC Fight Night 241 - Barboza vs. Murphy,2024-05-18,"UFC Apex, Las Vegas, Nevada, United States",False
+7f89b463c24f44969298d978d0811b9f,UFC - Road to UFC Season 3: Shanghai Quarterfinals 2,2024-05-18,"UFC Performance Institute, Shanghai, China",False
+2f6f4cbd8a3b458c87f1b16ab4077d11,UFC - Road to UFC Season 3: Shanghai Quarterfinals 1,2024-05-18,"UFC Performance Institute, Shanghai, China",False
+0e06077e11ec4a758511aa6391479f41,UFC on ESPN 56 - Lewis vs. Nascimento,2024-05-11,"Enterprise Center, St. Louis, Missouri, United States",False
+7b0ba6c4c2a14ac0b6613bdb12be5bfc,UFC 301 - Pantoja vs. Erceg,2024-05-04,"Farmasi Arena, Rio de Janeiro, Rio de Janeiro, Brazil",False
+f53aa8fd0d1c4457bf968d482ac97c5f,UFC on ESPN 55 - Nicolau vs. Perez,2024-04-27,"UFC Apex, Las Vegas, Nevada, United States",False
+49b22a8647634c63a52e02b01d57da1a,UFC 300 - Pereira vs. Hill,2024-04-13,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+9e2eb02be29847e1af75b8234d0cfa5b,UFC Fight Night 240 - Allen vs. Curtis 2,2024-04-06,"UFC Apex, Las Vegas, Nevada, United States",False
+8cb39e9aa980468e876950a016bbf432,UFC on ESPN 54 - Blanchfield vs. Fiorot,2024-03-30,"Boardwalk Hall, Atlantic City, New Jersey, United States",False
+b9af6563d8c14b0caa0e4b4c6f42dc24,UFC on ESPN 53 - Ribas vs. Namajunas,2024-03-23,"UFC Apex, Las Vegas, Nevada, United States",False
+0c74f1c1f7084c55ba227f25efd02e24,UFC Fight Night 239 - Tuivasa vs. Tybura,2024-03-16,"UFC Apex, Las Vegas, Nevada, United States",False
+82aee3a5387c4161b5a4dae8df0a3c24,UFC 299 - O'Malley vs. Vera 2,2024-03-09,"Kaseya Center, Miami, Florida, United States",False
+9482f433b16a46c28d996f08e8027e06,UFC Fight Night 238 - Rozenstruik vs. Gaziev,2024-03-02,"UFC Apex, Las Vegas, Nevada, United States",False
+78fcee7ed9c8401a83b766ec3bb1fbfe,UFC Fight Night 237 - Moreno vs. Royval 2,2024-02-24,"Mexico City Arena, Mexico City, Federal District, Mexico",False
+0387cc81bbe94ce29254ed44feeb883f,UFC 298 - Volkanovski vs. Topuria,2024-02-17,"Honda Center, Anaheim, California, United States",False
+99fb9d51de3a45198ecf62d3497daf29,UFC Fight Night 236 - Hermansson vs. Pyfer,2024-02-10,"UFC Apex, Las Vegas, Nevada, United States",False
+36f37e740da94aa09f4ab0baebef3018,UFC - Road to UFC Season 2: Las Vegas Finals,2024-02-03,"UFC Apex, Las Vegas, Nevada, United States",False
+23b635bd1ac54c3cb304b1d0995d598b,UFC Fight Night 235 - Dolidze vs. Imavov,2024-02-03,"UFC Apex, Las Vegas, Nevada, United States",False
+0f770cfa92124448a5b1ac2662e1b4c1,UFC 297 - Strickland vs. Du Plessis,2024-01-20,"Scotiabank Arena, Toronto, Ontario, Canada",False
+0542b34895ed49adaf31bd533d15ba97,UFC Fight Night 234 - Ankalaev vs. Walker 2,2024-01-13,"UFC Apex, Las Vegas, Nevada, United States",False
+09ef32b8734c4f30922837a29ce4b2ac,UFC 296 - Edwards vs. Covington,2023-12-16,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+d48d0c35d83848d2a53e92f65d0a7561,UFC Fight Night 233 - Song vs. Gutierrez,2023-12-09,"UFC Apex, Las Vegas, Nevada, United States",False
+cb3b71022d9a4937ae50713224a62a05,UFC on ESPN 52 - Dariush vs. Tsarukyan,2023-12-02,"Moody Center, Austin, Texas, United States",False
+aab21b2deb8d4e65ad0eedbd813608bb,UFC Fight Night 232 - Allen vs. Craig,2023-11-18,"UFC Apex, Las Vegas, Nevada, United States",False
+a2d54217aaaf4abebafdf61d272a61d4,UFC 295 - Prochazka vs. Pereira,2023-11-11,"Madison Square Garden, New York, New York, United States",False
+0d6011b30c134007a3c0fc59152d988e,UFC Fight Night 231 - Almeida vs. Lewis,2023-11-04,"Ibirapuera Gymnasium, Sao Paulo, Sao Paulo, Brazil",False
+f57ad77ce97744abaf6ef1b26aba2bbf,UFC 294 - Makhachev vs. Volkanovski 2,2023-10-21,"Etihad Arena, Yas Island, Abu Dhabi, United Arab Emirates",False
+c811024e10294f7d9e841e42d66613d1,UFC Fight Night 230 - Yusuff vs. Barboza,2023-10-14,"UFC Apex, Las Vegas, Nevada, United States",False
+9d55a5cbeadc456793713e13ba7ed950,UFC Fight Night 229 - Dawson vs. Green,2023-10-07,"UFC Apex, Las Vegas, Nevada, United States",False
+b2acd5778b7845158cefda871600a352,UFC Fight Night 228 - Fiziev vs. Gamrot,2023-09-23,"UFC Apex, Las Vegas, Nevada, United States",False
+a31568e8a65740ce98fe5ea5b41e3065,UFC Fight Night 227 - Grasso vs. Shevchenko 2,2023-09-16,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+7fddabed170a40848a514fd01f60e415,UFC 293 - Adesanya vs. Strickland,2023-09-09,"Qudos Bank Arena, Sydney, New South Wales, Australia",False
+801a1820d91f4866940383d665dc9a81,UFC Fight Night 226 - Gane vs. Spivak,2023-09-02,"Accor Arena, Paris, France",False
+24d6d18b7378405d9d4efebbea006e0d,UFC - Road to UFC Season 2: Singapore Semifinals 2,2023-08-27,"Singapore Indoor Stadium, Kallang, Singapore",False
+653d100d58534099856fbc7f727a8d53,UFC - Road to UFC Season 2: Singapore Semifinals 1,2023-08-27,"Singapore Indoor Stadium, Kallang, Singapore",False
+5c6bd7f437c548349ea838bfd059075d,UFC Fight Night 225 - Holloway vs. Korean Zombie,2023-08-26,"Singapore Indoor Stadium, Kallang, Singapore",False
+03db8e10a6ef4b4489e9c8c4bef7d421,UFC 292 - Sterling vs. O'Malley,2023-08-19,"TD Garden, Boston, Massachusetts, United States",False
+3d55b35c9461494681edbc8b25134efa,UFC on ESPN 51 - Luque vs. dos Anjos,2023-08-12,"UFC Apex, Las Vegas, Nevada, United States",False
+cc5dca2a9e884853b1248dab4f790687,UFC on ESPN 50 - Sandhagen vs. Font,2023-08-05,"Bridgestone Arena, Nashville, Tennessee, United States",False
+4c4f7601108049ff9ef536854d4deea0,UFC 291 - Poirier vs. Gaethje 2,2023-07-29,"Delta Center, Salt Lake City, Utah, United States",False
+03922ebb22d840deac6f714fc8a1a979,UFC Fight Night 224 - Aspinall vs. Tybura,2023-07-22,"02 Arena, London, Greater London, England",False
+971efa71e2fa4d93aaf23273dadc1db1,UFC on ESPN 49 - Holm vs. Bueno Silva,2023-07-15,"UFC Apex, Las Vegas, Nevada, United States",False
+a011d0340cf948cf99d351372e985a42,UFC 290 - Volkanovski vs. Rodriguez,2023-07-08,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+571885a8106f4ec688cbfc0d40828ca4,UFC on ESPN 48 - Strickland vs. Magomedov,2023-07-01,"UFC Apex, Las Vegas, Nevada, United States",False
+8abbab63104141ab9dc1ad41751b42cf,UFC on ABC 5 - Emmett vs. Topuria,2023-06-24,"Vystar Veterans Memorial Arena, Jacksonville, Florida, United States",False
+d00596884cb24e89ba74471b9ddab715,UFC on ESPN 47 - Vettori vs. Cannonier,2023-06-17,"UFC Apex, Las Vegas, Nevada, United States",False
+030469c0396c4f53b1d74c7759f6a701,UFC 289 - Nunes vs. Aldana,2023-06-10,"Rogers Arena, Vancouver, British Columbia, Canada",False
+8b18754989fa4ef0a30263436694c6e3,UFC on ESPN 46 - Kara-France vs. Albazi,2023-06-03,"UFC Apex, Las Vegas, Nevada, United States",False
+55d5ec69d5a24ca99f4d882426047709,UFC - Road to UFC Season 2: Shanghai Quarterfinals 4,2023-05-28,"UFC Performance Institute, Shanghai, China",False
+32a04e35ac5448b88fc9114aa6f009e9,UFC - Road to UFC Season 2: Shanghai Quarterfinals 3,2023-05-28,"UFC Performance Institute, Shanghai, China",False
+b1936d95aed14392801bc1165ef842fd,UFC - Road to UFC Season 2: Shanghai Quarterfinals 2,2023-05-27,"UFC Performance Institute, Shanghai, China",False
+d78f74b1d26e4be6bbe38320c01ce6b8,UFC - Road to UFC Season 2: Shanghai Quarterfinals 1,2023-05-27,"UFC Performance Institute, Shanghai, China",False
+27ae7640065744a38bfe8e15a89f43c3,UFC Fight Night 223 - Dern vs. Hill,2023-05-20,"UFC Apex, Las Vegas, Nevada, United States",False
+585cc57864874642b6f7b5949a24a7cc,UFC on ABC 4 - Rozenstruik vs. Almeida,2023-05-13,"Spectrum Center, Charlotte, North Carolina, United States",False
+91ee19fb211b45848ed639f0e2df8da7,UFC 288 - Sterling vs. Cejudo,2023-05-06,"Prudential Center, Newark, New Jersey, United States",False
+df576e8e439d49318e27ed7eb1afcbb2,UFC on ESPN 45 - Song vs. Simon,2023-04-29,"UFC Apex, Las Vegas, Nevada, United States",False
+dc5c4adf959d476b8e564769bf7756a7,UFC Fight Night 222 - Pavlovich vs. Blaydes,2023-04-22,"UFC Apex, Las Vegas, Nevada, United States",False
+ac8dcfc7f83b4321a4e720789c29889b,UFC on ESPN 44 - Holloway vs. Allen,2023-04-15,"T-Mobile Center, Kansas City, Missouri, United States",False
+a17fb2890a174b459c4e1236144ec865,UFC 287 - Pereira vs. Adesanya 2,2023-04-08,"Kaseya Center, Miami, Florida, United States",False
+ea09ced1686a484a919c6943deb5f912,UFC on ESPN 43 - Vera vs. Sandhagen,2023-03-25,"AT&T Center, San Antonio, Texas, United States",False
+7e596601f42e42f4b495ed12f2b434c4,UFC 286 - Edwards vs. Usman 3,2023-03-18,"O2 Arena, London, Greater London, England",False
+1c080d90628e4816a5b0d527fb7db08e,UFC Fight Night 221 - Yan vs. Dvalishvili,2023-03-11,"The Theater at Virgin Hotels, Las Vegas, Nevada, United States",False
+494c2557b51b431a8df69cfa219f11ba,UFC 285 - Jones vs. Gane,2023-03-04,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+8b6eac6322984c4ebd018a22038aabc3,UFC Fight Night 220 - Muniz vs. Allen,2023-02-25,"UFC Apex, Las Vegas, Nevada, United States",False
+ff063fbedeec4f838e14397f474ab155,UFC Fight Night 219 - Andrade vs. Blanchfield,2023-02-18,"UFC Apex, Las Vegas, Nevada, United States",False
+5243bfaa0ba44536bfc8f2e5e4df22aa,UFC 284 - Makhachev vs. Volkanovski,2023-02-11,"RAC Arena, Perth, Western Australia, Australia",False
+dff5346bae0e45d180bf9952ca62e07b,UFC Fight Night 218 - Lewis vs. Spivak,2023-02-04,"UFC Apex, Las Vegas, Nevada, United States",False
+7f044b7f403b4dd0954379f4031b5cef,UFC 283 - Teixeira vs. Hill,2023-01-21,"Jeunesse Arena, Rio de Janeiro, Brazil",False
+e9c6ff94aef74aec86b526bffe3b7d89,UFC Fight Night 217 - Strickland vs. Imavov,2023-01-14,"UFC Apex, Las Vegas, Nevada, United States",False
+0577d7339b3a4a34a2f5c4845bc4b06c,UFC Fight Night 216 - Cannonier vs. Strickland,2022-12-17,"UFC Apex, Las Vegas, Nevada, United States",False
+8b0811b555ad4e96b88a2ae8e6bfc0a8,UFC 282 - Blachowicz vs. Ankalaev,2022-12-10,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+247d270e7fed41f5943932002e77a7d9,UFC on ESPN 42 - Thompson vs. Holland,2022-12-03,"Amway Center, Orlando, Florida, United States",False
+cf7a0d793a1d4c95beb3f59e5f9eafaf,UFC Fight Night 215 - Nzechukwu vs. Cutelaba,2022-11-19,"UFC Apex, Las Vegas, Nevada, United States",False
+a333a5afeedb4d2b82df677bba3ae9cd,UFC 281 - Adesanya vs. Pereira,2022-11-12,"Madison Square Garden, New York, New York, United States",False
+c614715fb81b41889ca2965a9a54d540,UFC Fight Night 214 - Rodriguez vs. Lemos,2022-11-05,"UFC Apex, Las Vegas, Nevada, United States",False
+87cb8cd323354bb89e0245fc99bdbc2a,UFC Fight Night 213 - Kattar vs. Allen,2022-10-29,"UFC Apex, Las Vegas, Nevada, United States",False
+0bcbe83a807d4b389f781b84da3e7773,UFC - Road to UFC: Abu Dhabi Semifinals 2,2022-10-23,"Etihad Arena, Yas Island, Abu Dhabi, United Arab Emirates",False
+320b611169d84312a001ce41f8cbcab8,UFC - Road to UFC: Abu Dhabi Semifinals 1,2022-10-23,"Etihad Arena, Yas Island, Abu Dhabi, United Arab Emirates",False
+681a9f9d81b84cf09717e29fa6c1ac4c,UFC 280 - Oliveira vs. Makhachev,2022-10-22,"Etihad Arena, Yas Island, Abu Dhabi, United Arab Emirates",False
+f783389f396242e7a448708806e4dc6f,UFC Fight Night 212 - Grasso vs. Araujo,2022-10-15,"UFC Apex, Las Vegas, Nevada, United States",False
+271e7f808ff74f32b31e26bc38883ff1,UFC Fight Night 211 - Dern vs. Yan,2022-10-01,"UFC Apex, Las Vegas, Nevada, United States",False
+33c4825e6e0e42ea8d2317093398dc1c,UFC Fight Night 210 - Sandhagen vs. Song,2022-09-17,"UFC Apex, Las Vegas, Nevada, United States",False
+c28fc8dc2a7f454bab3053cf6ece1436,UFC 279 - Diaz vs. Ferguson,2022-09-10,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+df620d7a7427401eb9919fd520c48400,UFC Fight Night 209 - Gane vs. Tuivasa,2022-09-03,"Accor Arena, Paris, France",False
+119f3c0dd2c2465694b5fe6d6e0da3e8,UFC 278 - Usman vs. Edwards 2,2022-08-20,"Vivint Arena, Salt Lake City, Utah, United States",False
+cd414b0a7dc84cd283e9525ac7a56fc1,UFC on ESPN 41 - Vera vs. Cruz,2022-08-13,"Pechanga Arena, San Diego, California, United States",False
+9ae448327f844ae2a920579454cccb57,UFC on ESPN 40 - Santos vs. Hill,2022-08-06,"UFC Apex, Las Vegas, Nevada, United States",False
+69ddde1a926a4f97960d694a64f79a17,UFC 277 - Pena vs. Nunes 2,2022-07-30,"American Airlines Center, Dallas, Texas, United States",False
+a1a192925adf4b2daab8be3d6ad45688,UFC Fight Night 208 - Blaydes vs. Aspinall,2022-07-23,"O2 Arena, London, Greater London, England",False
+2fc381049c9940989a6c8f526a0ce8d0,UFC on ABC 3 - Ortega vs. Rodriguez,2022-07-16,"UBS Arena, Elmont, New York, United States",False
+cdcc6d1aeb5f44edb8ae19d7bee03147,UFC on ESPN 39 - Dos Anjos vs. Fiziev,2022-07-09,"UFC Apex, Las Vegas, Nevada, United States",False
+51a526e552bc46c98a65416818f2d7cf,UFC 276 - Adesanya vs. Cannonier,2022-07-02,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+bc9fab89b0fb4b48b96723310d8bc4e5,UFC on ESPN 38 - Tsarukyan vs. Gamrot,2022-06-25,"UFC Apex, Las Vegas, Nevada, United States",False
+1574a6ad70f141de8ec56c4aafcbd640,UFC on ESPN 37 - Kattar vs. Emmett,2022-06-18,"Moody Center, Austin, Texas, United States",False
+30c27297211a45aebb5bcff08d35d941,UFC 275 - Teixeira vs. Prochazka,2022-06-12,"Singapore Indoor Stadium, Kallang, Singapore",False
+94ce0513a7484e0985bb25e61fed1d25,UFC - Road to UFC: Singapore Quarterfinals 4,2022-06-10,"Singapore Indoor Stadium, Kallang, Singapore",False
+dc33a6b64004460588f292a801461288,UFC - Road to UFC: Singapore Quarterfinals 3,2022-06-10,"Singapore Indoor Stadium, Kallang, Singapore",False
+739ade8d5dc041d19c5cada1f654ddbb,UFC - Road to UFC: Singapore Quarterfinals 2,2022-06-09,"Singapore Indoor Stadium, Kallang, Singapore",False
+1c1f7dfc74cc43078278445ae4bcb9ad,UFC - Road to UFC: Singapore Quarterfinals 1,2022-06-09,"Singapore Indoor Stadium, Kallang, Singapore",False
+cbbfa66e7dab427685b563f73ab44302,UFC Fight Night 207 - Volkov vs. Rozenstruik,2022-06-04,"UFC Apex, Las Vegas, Nevada, United States",False
+f912c7c552fd495f98d66075d9a5bdf0,UFC Fight Night 206 - Holm vs. Vieira,2022-05-21,"UFC Apex, Las Vegas, Nevada, United States",False
+ce5e478decb340cfab96e2bd2e54602e,UFC on ESPN 36 - Blachowicz vs. Rakic,2022-05-14,"UFC Apex, Las Vegas, Nevada, United States",False
+544517d715484bdb8a0918c1f03a1f21,UFC 274 - Oliveira vs. Gaethje,2022-05-07,"Footprint Center, Phoenix, Arizona, United States",False
+4fea362a7c3b4ef9ab7f9e25a064253b,UFC on ESPN 35 - Font vs. Vera,2022-04-30,"UFC Apex, Las Vegas, Nevada, United States",False
+7734c77a82c5402a93a7423a84d7ebbb,UFC Fight Night 205 - Lemos vs. Andrade,2022-04-23,"UFC Apex, Las Vegas, Nevada, United States",False
+3a6278f0301a4e679d62d0d75fa52c1c,UFC on ESPN 34 - Luque vs. Muhammad 2,2022-04-16,"UFC Apex, Las Vegas, Nevada, United States",False
+42c1174820cb464e82f6655cbc1d1899,UFC 273 - Volkanovski vs. Korean Zombie,2022-04-09,"VyStar Veterans Memorial Arena, Jacksonville, Florida, United States",False
+d38153a2a74f48628765c89811b60984,UFC on ESPN 33 - Blaydes vs. Daukaus,2022-03-26,"Nationwide Arena, Columbus, Ohio, United States",False
+3d75bfb66f27423c8a8268a0f9ab59e1,UFC Fight Night 204 - Volkov vs. Aspinall,2022-03-19,"O2 Arena, London, Greater London, England",False
+2ef77d83ebd741bbaa179dd52af873a2,UFC Fight Night 203 - Santos vs. Ankalaev,2022-03-12,"UFC Apex, Las Vegas, Nevada, United States",False
+abe277516b7345c186a0474eb6d9d014,UFC 272 - Covington vs. Masvidal,2022-03-05,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+2d98ec7f55d64ccb91eee92dad1bfe7c,UFC Fight Night 202 - Makhachev vs. Green,2022-02-26,"UFC Apex, Las Vegas, Nevada, United States",False
+fd998d1173b84ec18baff4d95dc0df18,UFC Fight Night 201 - Walker vs. Hill,2022-02-19,"UFC Apex, Las Vegas, Nevada, United States",False
+e00077c3b08e4ff88715ceafd94f0c1b,UFC 271 - Adesanya vs. Whittaker 2,2022-02-12,"Toyota Center, Houston, Texas, United States",False
+3cd2edcf30b44dfc82d794cd66c4aad3,UFC Fight Night 200 - Hermansson vs. Strickland,2022-02-05,"UFC Apex, Las Vegas, Nevada, United States",False
+8c85c96d2f934bff99e7db5c64045cdc,UFC 270 - Ngannou vs. Gane,2022-01-22,"Honda Center, Anaheim, California, United States",False
+190d64a7015d428caf6c2eca18fc5393,UFC on ESPN 32 - Kattar vs. Chikadze,2022-01-15,"UFC Apex, Las Vegas, Nevada, United States",False
+bba1b2d9822f455eae89802ea97ab5ed,UFC Fight Night 199 - Lewis vs. Daukaus,2021-12-18,"UFC Apex, Las Vegas, Nevada, United States",False
+fb803f3a0b5f4777b50413ee3ed6651b,UFC 269 - Oliveira vs. Poirier,2021-12-11,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+7728b17b79c54996bd5bc45e3f514503,UFC on ESPN 31 - Font vs. Aldo,2021-12-04,"UFC Apex, Las Vegas, Nevada, United States",False
+69799df779d5445a8c956f379d0e8075,UFC Fight Night 198 - Vieira vs. Tate,2021-11-20,"UFC Apex, Las Vegas, Nevada, United States",False
+54d1891607e946db9524fc15aea3de34,UFC Fight Night 197 - Holloway vs. Rodriguez,2021-11-13,"UFC Apex, Las Vegas, Nevada, United States",False
+3a9dc41c98e5496c91c6132e65933eec,UFC 268 - Usman vs. Covington 2,2021-11-06,"Madison Square Garden, New York, New York, United States",False
+0215230822be438799b27da84bb5fcbd,UFC 267 - Blachowicz vs. Teixeira,2021-10-30,"Etihad Arena, Yas Island, Abu Dhabi, United Arab Emirates",False
+13d8e385ff5046519b3e868fa0bfc9c8,UFC Fight Night 196 - Costa vs. Vettori,2021-10-23,"UFC Apex, Las Vegas, Nevada, United States",False
+3e16da43e43a4b8ea3a3b77c9b468834,UFC Fight Night 195 - Ladd vs. Dumont,2021-10-16,"UFC Apex, Las Vegas, Nevada, United States",False
+523264f89be14641880ec1d484d20410,UFC Fight Night 194 - Dern vs. Rodriguez,2021-10-09,"UFC Apex, Las Vegas, Nevada, United States",False
+436b760f9ffe44b98932cfd344820e89,UFC Fight Night 193 - Santos vs. Walker,2021-10-02,"UFC Apex, Las Vegas, Nevada, United States",False
+079a5cb3815e4b1d801675dadeefeca7,UFC 266 - Volkanovski vs. Ortega,2021-09-25,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+7104e7438b0d44dab548feae9e6b458f,UFC Fight Night 192 - Smith vs. Spann,2021-09-18,"UFC Apex, Las Vegas, Nevada, United States",False
+a7d75b2888f84f4f9011d376dcc9c9e5,UFC Fight Night 191 - Brunson vs. Till,2021-09-04,"UFC Apex, Las Vegas, Nevada, United States",False
+b2761dccc05648308469dd1f0d19c460,UFC on ESPN 30 - Barboza vs. Chikadze,2021-08-28,"UFC Apex, Las Vegas, Nevada, United States",False
+ba93321a191e4cf88cda0951aa8fb5b5,UFC on ESPN 29 - Cannonier vs. Gastelum,2021-08-21,"UFC Apex, Las Vegas, Nevada, United States",False
+5666061a54294ce6abfc5974ad785c1a,UFC 265 - Lewis vs. Gane,2021-08-07,"Toyota Center, Houston, Texas, United States",False
+375940e520594f659926404936ff9fc6,UFC on ESPN 28 - Hall vs. Strickland,2021-07-31,"UFC Apex, Las Vegas, Nevada, United States",False
+716fc795813f4a2da8ef12a17954fcc9,UFC on ESPN 27 - Sandhagen vs. Dillashaw,2021-07-24,"UFC Apex, Las Vegas, Nevada, United States",False
+e3a0a3fbb31343cbad79fb5bb9adb3c6,UFC on ESPN 26 - Makhachev vs. Moises,2021-07-17,"UFC Apex, Las Vegas, Nevada, United States",False
+4b5e2b42bdf7491c85a2aaf4f7d509fc,UFC 264 - Poirier vs. McGregor 3,2021-07-10,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+570910126c53402eaa65e3d2075595a6,UFC Fight Night 190 - Gane vs. Volkov,2021-06-26,"UFC Apex, Las Vegas, Nevada, United States",False
+8b9791c37b6744cc955e6b0255bbc8ad,UFC on ESPN 25 - Korean Zombie vs. Ige,2021-06-19,"UFC Apex, Las Vegas, Nevada, United States",False
+639eebf69c304db0bf0939c5ee5de917,UFC 263 - Adesanya vs. Vettori 2,2021-06-12,"Gila River Arena, Glendale, Arizona, United States",False
+60ed201ff41f408487aea893673e4ff0,UFC Fight Night 189 - Rozenstruik vs. Sakai,2021-06-05,"UFC Apex, Las Vegas, Nevada, United States",False
+12f732afdcfc448686b8b104d13c6f8c,UFC Fight Night 188 - Font vs. Garbrandt,2021-05-22,"UFC Apex, Las Vegas, Nevada, United States",False
+568a3036b595417ca3d2d9205004c068,UFC 262 - Oliveira vs. Chandler,2021-05-15,"Toyota Center, Houston, Texas, United States",False
+eb6c7b64a9da46d2a25dfa570b24fe3b,UFC on ESPN 24 - Rodriguez vs. Waterson,2021-05-08,"UFC Apex, Las Vegas, Nevada, United States",False
+0b1474b5065f4606a941a70945e13c69,UFC on ESPN 23 - Reyes vs. Prochazka,2021-05-01,"UFC Apex, Las Vegas, Nevada, United States",False
+822d112d7395474988348d127b36cd05,UFC 261 - Usman vs. Masvidal 2,2021-04-24,"VyStar Veterans Memorial Arena, Jacksonville, Florida, United States",False
+34a75b2e76624180ab5f65a9fdaf21dd,UFC on ESPN 22 - Whittaker vs. Gastelum,2021-04-17,"UFC Apex, Las Vegas, Nevada, United States",False
+cf459eadcb9a43158c2d1598bbacca1b,UFC on ABC 2 - Vettori vs. Holland,2021-04-10,"UFC Apex, Las Vegas, Nevada, United States",False
+69d857c537964d9d97638fa75f147323,UFC 260 - Miocic vs. Ngannou 2,2021-03-27,"UFC Apex, Las Vegas, Nevada, United States",False
+75b52cd1a92c410e86212dd712514e88,UFC on ESPN 21 - Brunson vs. Holland,2021-03-20,"UFC Apex, Las Vegas, Nevada, United States",False
+4b70b2b55a8a4b3994fd043dbb526d16,UFC Fight Night 187 - Edwards vs. Muhammad,2021-03-13,"UFC Apex, Las Vegas, Nevada, United States",False
+8af4fb1f360645b58dd3a8e80195c669,UFC 259 - Blachowicz vs. Adesanya,2021-03-06,"UFC Apex, Las Vegas, Nevada, United States",False
+1bb0558edd654e069b2616f27ce45b08,UFC Fight Night 186 - Rozenstruik vs. Gane,2021-02-27,"UFC Apex, Las Vegas, Nevada, United States",False
+e6d6e9c1d76c4b40b2c2603f24523c17,UFC Fight Night 185 - Blaydes vs. Lewis,2021-02-20,"UFC Apex, Las Vegas, Nevada, United States",False
+8b94502f18e446f99d47d13c06e94008,UFC 258 - Usman vs. Burns,2021-02-13,"UFC Apex, Las Vegas, Nevada, United States",False
+bf2206e635764739afac656ae41eaa95,UFC Fight Night 184 - Overeem vs. Volkov,2021-02-06,"UFC Apex, Las Vegas, Nevada, United States",False
+4272d060a9e04557a0fa791eab4b4ecd,UFC 257 - Poirier vs. McGregor 2,2021-01-23,"Etihad Arena, Yas Island, Abu Dhabi, United Arab Emirates",False
+aad620880156429ea14e8475e6cb80e0,UFC on ESPN 20 - Chiesa vs. Magny,2021-01-20,"Etihad Arena, Yas Island, Abu Dhabi, United Arab Emirates",False
+d4a3532427e944499e4dbcaa5b850544,UFC on ABC 1 - Holloway vs. Kattar,2021-01-16,"Etihad Arena, Yas Island, Abu Dhabi, United Arab Emirates",False
+642aceec5dcf425c8a2f7680d1d9da5b,UFC Fight Night 183 - Thompson vs. Neal,2020-12-19,"UFC Apex, Las Vegas, Nevada, United States",False
+65a590f0739e43299eeb4cf4b94c19b5,UFC 256 - Figueiredo vs. Moreno,2020-12-12,"UFC Apex, Las Vegas, Nevada, United States",False
+2ded5952440e46b1b2708999b44fab93,UFC on ESPN 19 - Hermansson vs. Vettori,2020-12-05,"UFC Apex, Las Vegas, Nevada, United States",False
+acd36e7a3dee43c7a062f73b2acd79ed,UFC on ESPN 18 - Smith vs. Clark,2020-11-28,"UFC Apex, Las Vegas, Nevada, United States",False
+c773360b50384742a73984a169891a84,UFC 255 - Figueiredo vs. Perez,2020-11-21,"UFC Apex, Las Vegas, Nevada, United States",False
+7fb7e9ac6ee744178ef0f6eb18d191bf,UFC Fight Night 182 - Felder vs. dos Anjos,2020-11-14,"UFC Apex, Las Vegas, Nevada, United States",False
+85e7c1ba49524aa5ae1a58ecccbbcbeb,UFC on ESPN 17 - Santos vs. Teixeira,2020-11-07,"UFC Apex, Las Vegas, Nevada, United States",False
+e5802bbadfef41b1b806ae95cccbdfd6,UFC Fight Night 181 - Hall vs. Silva,2020-10-31,"UFC Apex, Las Vegas, Nevada, United States",False
+4a34e5752a574016b8746b44b2a0734c,UFC 254 - Nurmagomedov vs. Gaethje,2020-10-24,"Flash Forum, Yas Island, Abu Dhabi, United Arab Emirates",False
+1e3809c7b2cf417c98e65230cc10b531,UFC Fight Night 180 - Ortega vs. Korean Zombie,2020-10-17,"Flash Forum, Yas Island, Abu Dhabi, United Arab Emirates",False
+90d6deba97e8477e89408570e4ca1ebf,UFC Fight Night 179 - Moraes vs. Sandhagen,2020-10-10,"Flash Forum, Yas Island, Abu Dhabi, United Arab Emirates",False
+41931cb065bd4a31b1c2fcea4e4ec0f1,UFC on ESPN 16 - Holm vs. Aldana,2020-10-03,"Flash Forum, Yas Island, Abu Dhabi, United Arab Emirates",False
+e9adfadb46344412bcf13006a1c186ec,UFC 253 - Adesanya vs. Costa,2020-09-26,"Flash Forum, Yas Island, Abu Dhabi, United Arab Emirates",False
+66ddf673f45d40c89f69ecf81a025c3a,UFC Fight Night 178 - Covington vs. Woodley,2020-09-19,"UFC Apex, Las Vegas, Nevada, United States",False
+dff7eb6f18de4f3abe36834f487dabb2,UFC Fight Night 177 - Waterson vs. Hill,2020-09-12,"UFC Apex, Las Vegas, Nevada, United States",False
+5ea5b91a9e424bfa9e7d654d30b3e063,UFC Fight Night 176 - Overeem vs. Sakai,2020-09-05,"UFC Apex, Las Vegas, Nevada, United States",False
+243f686ff3b34a929ad24b3f72ed6db6,UFC Fight Night 175 - Smith vs. Rakic,2020-08-29,"UFC Apex, Las Vegas, Nevada, United States",False
+fdf17d6ced8d4565af0a72c8504fce0c,UFC on ESPN 15 - Munhoz vs. Edgar,2020-08-22,"UFC Apex, Las Vegas, Nevada, United States",False
+983c43da6d0f465ba5675be3e8f81305,UFC 252 - Miocic vs. Cormier 3,2020-08-15,"UFC Apex, Las Vegas, Nevada, United States",False
+7a3fc714cfb3478595815423ad454ee5,UFC Fight Night 174 - Lewis vs. Oleynik,2020-08-08,"UFC Apex, Las Vegas, Nevada, United States",False
+7e17235472924f09b964c5dacdbf5b50,UFC Fight Night 173 - Brunson vs. Shahbazyan,2020-08-01,"UFC Apex, Las Vegas, Nevada, United States",False
+b0efaedc1a3b41fe8e148c6a20de15b4,UFC on ESPN 14 - Whittaker vs. Till,2020-07-25,"Flash Forum, Yas Island, Abu Dhabi, United Arab Emirates",False
+904c9074dc0e40fba7c865c13f0edae7,UFC Fight Night 172 - Figueiredo vs. Benavidez 2,2020-07-18,"Flash Forum, Yas Island, Abu Dhabi, United Arab Emirates",False
+eb82177dfe524e6eab741134474b6c74,UFC on ESPN 13 - Kattar vs. Ige,2020-07-15,"Flash Forum, Yas Island, Abu Dhabi, United Arab Emirates",False
+774df702bb9644cfb80be23cb25e4ccc,UFC 251 - Usman vs. Masvidal,2020-07-11,"Flash Forum, Yas Island, Abu Dhabi, United Arab Emirates",False
+83a1309c53ff48ffb1ad6dc7adf6bb7d,UFC on ESPN 12 - Poirier vs. Hooker,2020-06-27,"UFC Apex, Las Vegas, Nevada, United States",False
+60713e628bab48fdb7ed00c718dfabf3,UFC on ESPN 11 - Blaydes vs. Volkov,2020-06-20,"UFC Apex, Las Vegas, Nevada, United States",False
+ccdd3a5988dc4d4c9bd1c7489c416a45,UFC on ESPN 10 - Eye vs. Calvillo,2020-06-13,"UFC Apex, Las Vegas, Nevada, United States",False
+b38f95d69fc540ea95df7780855759d9,UFC 250 - Nunes vs. Spencer,2020-06-06,"UFC Apex, Las Vegas, Nevada, United States",False
+842ce55054214d1ebf2698a0f27cecda,UFC on ESPN 9 - Woodley vs. Burns,2020-05-30,"UFC Apex, Las Vegas, Nevada, United States",False
+d22f7619bb29466aa6dad62323f23551,UFC on ESPN 8 - Overeem vs. Harris,2020-05-16,"VyStar Veterans Memorial Arena, Jacksonville, Florida, United States",False
+8867a99162e241f48165afdd1cc71593,UFC Fight Night 171 - Smith vs. Teixeira,2020-05-13,"VyStar Veterans Memorial Arena, Jacksonville, Florida, United States",False
+921fd953034546a2ba4072a226b46951,UFC 249 - Ferguson vs. Gaethje,2020-05-09,"VyStar Veterans Memorial Arena, Jacksonville, Florida, United States",False
+acd0902c3f6d45c49e85f495038d19a0,UFC Fight Night 170 - Lee vs. Oliveira,2020-03-14,"Nilson Nelson Gymnasium, Brasilia, Federal District, Brazil",False
+ac8b2733b46d46d1939d27b41792ab71,UFC 248 - Adesanya vs. Romero,2020-03-07,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+2cdf691610e24c348ae126509506c78f,UFC Fight Night 169 - Benavidez vs. Figueiredo,2020-02-29,"Chartway Arena, Norfolk, Virginia, United States",False
+1fdd3a4db9b9410e80e7785cf9ca5cbc,UFC Fight Night 168 - Felder vs. Hooker,2020-02-23,"Spark Arena, Auckland, New Zealand",False
+2bdb7c79cc654d88b59f74441280a232,UFC Fight Night 167 - Anderson vs. Blachowicz 2,2020-02-15,"Santa Ana Star Center, Rio Rancho, New Mexico, United States",False
+813fd7156e0147f7b22fcb1a5895d4cb,UFC 247 - Jones vs. Reyes,2020-02-08,"Toyota Center, Houston, Texas, United States",False
+1eb20c0c4751426ca1c532518d5d730a,UFC Fight Night 166 - Blaydes vs. dos Santos,2020-01-25,"PNC Arena, Raleigh, North Carolina, United States",False
+8303c784fd834f6f8241968019492daa,UFC 246 - McGregor vs. Cerrone,2020-01-18,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+514b05136b9b4d9484a2e99b77d02da8,UFC Fight Night 165 - Edgar vs. Korean Zombie,2019-12-21,"Sajik Arena, Busan, South Korea",False
+3c8a31e695544441aad749c56c424c04,UFC 245 - Usman vs. Covington,2019-12-14,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+707a0145496f48d5982166951a053ef6,UFC on ESPN 7 - Overeem vs. Rozenstruik,2019-12-07,"Capital One Arena, Washington, D.C., United States",False
+a13a6098f8784e8b816ca5330d4de20d,UFC Fight Night 164 - Blachowicz vs. Jacare,2019-11-16,"Ibirapuera Gymnasium, Sao Paulo, Sao Paulo, Brazil",False
+08108593118b468da552e5596e60244b,UFC Fight Night 163 - Magomedsharipov vs. Kattar,2019-11-09,"CSKA Arena, Moscow, Russia",False
+0783944fe5264e80b08ba833e9ff59cf,UFC 244 - Masvidal vs. Diaz,2019-11-02,"Madison Square Garden, New York, New York, United States",False
+30b057c9ef31444d9eade701b79d3dd1,UFC Fight Night 162 - Maia vs. Askren,2019-10-26,"Singapore Indoor Stadium, Kallang, Singapore",False
+92b2643cbc0f4075b6f9a764c9395f5f,UFC on ESPN 6 - Reyes vs. Weidman,2019-10-18,"TD Garden, Boston, Massachusetts, United States",False
+3b3b638700814611b2e55a0631fd27fa,UFC Fight Night 161 - Jedrzejczyk vs. Waterson,2019-10-12,"Amalie Arena, Tampa, Florida, United States",False
+7616e393c09748b0af90f7bd5b608c46,UFC 243 - Whittaker vs. Adesanya,2019-10-05,"Docklands Stadium, Melbourne, Victoria, Australia",False
+8a17eed9cb33438b916650ab4229d8e0,UFC Fight Night 160 - Hermansson vs. Cannonier,2019-09-28,"Royal Arena, Copenhagen, Denmark",False
+f2ce8105a56641bb946892967985776f,UFC Fight Night 159 - Rodriguez vs. Stephens,2019-09-21,"Mexico City Arena, Mexico City, Federal District, Mexico",False
+0aeb5f82bc3c4dc5be7b9d38d980d0fb,UFC Fight Night 158 - Cowboy vs. Gaethje,2019-09-14,"Rogers Arena, Vancouver, British Columbia, Canada",False
+f9e98885c5a5442492a029fc04b77f25,UFC 242 - Khabib vs. Poirier,2019-09-07,"Du Arena, Yas Island, Abu Dhabi, United Arab Emirates",False
+2aadde5c51074891b813f39b63332b16,UFC Fight Night 157 - Andrade vs. Zhang,2019-08-31,"Shenzhen Universiade Sports Centre, Shenzhen, Guangdong, China",False
+9969ed3a8eeb49799a1f3c07c4423786,UFC 241 - Cormier vs. Miocic 2,2019-08-17,"Honda Center, Anaheim, California, United States",False
+fe9f8e6141aa44d7bb00bc02c5df0ad4,UFC Fight Night 156 - Shevchenko vs. Carmouche 2,2019-08-10,"Antel Arena, Montevideo, Uruguay",False
+66dd9997b58844588ee3234bebd37eb2,UFC on ESPN 5 - Covington vs. Lawler,2019-08-03,"Prudential Center, Newark, New Jersey, United States",False
+79598253141249f5962c2699bd0e5774,UFC 240 - Holloway vs. Edgar,2019-07-27,"Rogers Place, Edmonton, Alberta, Canada",False
+b748ea7cc017418cac439632d845f1e5,UFC on ESPN 4 - Dos Anjos vs. Edwards,2019-07-20,"AT&T Center, San Antonio, Texas, United States",False
+aeb516ef110c4b1188de6800553e6d5c,UFC Fight Night 155 - De Randamie vs. Ladd,2019-07-13,"Golden 1 Center, Sacramento, California, United States",False
+746feed92dbd429b9bcea76434fb5725,UFC 239 - Jones vs. Santos,2019-07-06,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+60d02c7c4bb545deba14030730d9b655,UFC on ESPN 3 - Ngannou vs. Dos Santos,2019-06-29,"Target Center, Minneapolis, Minnesota, United States",False
+29136046bc994321ac155d2a65a001a9,UFC Fight Night 154 - Moicano vs. The Korean Zombie,2019-06-22,"Bon Secours Wellness Arena, Greenville, South Carolina, United States",False
+d9923d9c0d84467893cd0f6f026b45cd,UFC 238 - Cejudo vs. Moraes,2019-06-08,"United Center, Chicago, Illinois, United States",False
+81f1dc993b414e3dae68ee118147dca4,UFC Fight Night 153 - Gustafsson vs. Smith,2019-06-01,"Ericsson Globe, Stockholm, Sweden",False
+fc805eda34364549ba9089e8d9ed33df,UFC Fight Night 152 - Dos Anjos vs. Lee,2019-05-18,"Blue Cross Arena, Rochester, New York, United States",False
+828f260af387493f87e30221724ed07f,UFC 237 - Namajunas vs. Andrade,2019-05-11,"Jeunesse Arena, Rio de Janeiro, Brazil",False
+90b19f67bf41455fad62553a2da8f236,UFC Fight Night 151 - Iaquinta vs. Cowboy,2019-05-04,"Canadian Tire Centre, Ottawa, Ontario, Canada",False
+e65ec02a13f6474a87db829f55175d53,UFC Fight Night 150 - Jacare vs. Hermansson,2019-04-27,"BB&T Center, Sunrise, Florida, United States",False
+23d61dd534e8480bba9628d22dbac459,UFC Fight Night 149 - Overeem vs. Oleynik,2019-04-20,"Yubileyny Sports Complex, St. Petersburg, Russia",False
+b033df1f36db4daaa0e5c7cce528f4cf,UFC 236 - Holloway vs. Poirier,2019-04-13,"State Farm Arena, Atlanta, Georgia, United States",False
+243de8fd578741a9b27b78c0a22d41c2,UFC on ESPN 2 - Barboza vs. Gaethje,2019-03-30,"Wells Fargo Center, Philadelphia, Pennsylvania, United States",False
+55961b7d060e46c39a956178d1dd29d8,UFC Fight Night 148 - Thompson vs. Pettis,2019-03-23,"Bridgestone Arena, Nashville, Tennessee, United States",False
+c1b79a0ec57641df95ec24c371fcaad9,UFC Fight Night 147 - Till vs. Masvidal,2019-03-16,"O2 Arena, London, Greater London, England",False
+454baf11ea674ab8afa5d30440dfc716,UFC Fight Night 146 - Lewis vs. Dos Santos,2019-03-09,"Intrust Bank Arena, Wichita, Kansas, United States",False
+ece16981134345939fb403079086892c,UFC 235 - Jones vs. Smith,2019-03-02,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+df9354167f754c0783e1b502e23e57a8,UFC Fight Night 145 - Blachowicz vs. Santos,2019-02-23,"O2 Arena, Prague, Czech Republic",False
+3bcb457f17574578bc5fe33ec90c6c48,UFC on ESPN 1 - Ngannou vs. Velasquez,2019-02-17,"Talking Stick Resort Arena, Phoenix, Arizona, United States",False
+0d9f12a184fc4b43a49169feaf94ca3a,UFC 234 - Adesanya vs. Silva,2019-02-09,"Rod Laver Arena, Melbourne, Victoria, Australia",False
+8fc0c609d1d74bbfb699289ff048a4e1,UFC Fight Night 144 - Assuncao vs. Moraes 2,2019-02-02,"Centro de Formacao Olimpica do Nordeste, Fortaleza, Ceara, Brazil",False
+b1e0ab38f4f24e0e8987867b89ca4f22,UFC 233 - Ultimate Fighting Championship 233,2019-01-26,"EVENT CANCELED - Honda Center, Anaheim, California, United States",True
+7b2d8b581c3d41cca5a1b559872cab0a,UFC Fight Night 143 - Cejudo vs. Dillashaw,2019-01-19,"Barclays Center, Brooklyn, New York, United States",False
+160605100e794f7da456a1aebd146684,UFC 232 - Jones vs. Gustafsson 2,2018-12-29,"The Forum, Inglewood, California, United States",False
+4af4a3edeb0f4445b90ce02209d14e55,UFC on Fox 31 - Iaquinta vs. Lee 2,2018-12-15,"Fiserv Forum, Milwaukee, Wisconsin, United States",False
+d58987a0be724f3dab2261eaf769f74a,UFC 231 - Holloway vs. Ortega,2018-12-08,"Scotiabank Arena, Toronto, Ontario, Canada",False
+7066e1474c02437c9cf28d549ff5fafe,UFC Fight Night 142 - Dos Santos vs. Tuivasa,2018-12-01,"Adelaide Entertainment Centre, Adelaide, South Australia, Australia",False
+24e427c813c744d0a285d13a21259752,UFC - The Ultimate Fighter 28 Finale,2018-11-30,"Pearl Concert Theater at Palms Casino Resort, Las Vegas, Nevada, United States",False
+9693f70bc6b040d4a4ad99564524070e,UFC Fight Night 141 - Blaydes vs. Ngannou 2,2018-11-24,"Cadillac Arena, Beijing, China",False
+80b30f015feb48b6afa85ea3cd12b733,UFC Fight Night 140 - Magny vs. Ponzinibbio,2018-11-17,"Parque Roca Arena, Buenos Aires, Argentina",False
+3688982fd5d947d6a0b2aef530297dfc,UFC Fight Night 139 - Korean Zombie vs. Rodriguez,2018-11-10,"Pepsi Center, Denver, Colorado, United States",False
+5ff1b4a81e034a56834641840945bbfb,UFC 230 - Cormier vs. Lewis,2018-11-03,"Madison Square Garden, New York, New York, United States",False
+2b574b150a074582bf415d2cbb182905,UFC Fight Night 138 - Oezdemir vs. Smith,2018-10-27,"Moncton Events Centre, Moncton, New Brunswick, Canada",False
+5bb1eca391e245029e738fdf3a116671,UFC 229 - Nurmagomedov vs. McGregor,2018-10-06,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+da734d135bf94a9eb7db61d568b65166,UFC Fight Night 137 - Santos vs. Anders,2018-09-22,"Geraldo Jose de Almeida (Ibirapuera) Gymnasium, Sao Paulo, Sao Paulo, Brazil",False
+1463e17ce78d469092f67e088a21235c,UFC Fight Night 136 - Hunt vs. Oleynik,2018-09-15,"Olimpiysky Arena, Moscow, Russia",False
+5bcf66702be845fab1e10ebd14a58a77,UFC 228 - Woodley vs. Till,2018-09-08,"American Airlines Center, Dallas, Texas, United States",False
+2cc582adc315413eb0e3c92543abf704,UFC Fight Night 135 - Gaethje vs. Vick,2018-08-25,"Pinnacle Bank Arena, Lincoln, Nebraska, United States",False
+5bc7a0b826234262bb454ebf7395cbbe,UFC 227 - Dillashaw vs. Garbrandt 2,2018-08-04,"Staples Center, Los Angeles, California, United States",False
+602c45aae3814587b570bf71d6a53074,UFC on Fox 30 - Alvarez vs. Poirier 2,2018-07-28,"Scotiabank Saddledome, Calgary, Alberta, Canada",False
+668837527f434d529410aa7d8253ef1c,UFC Fight Night 134 - Shogun vs. Smith,2018-07-22,"Barclaycard Arena, Hamburg, Germany",False
+731982b7cb6f486a8843d4f97b8b2484,UFC Fight Night 133 - Dos Santos vs. Ivanov,2018-07-14,"CenturyLink Arena, Boise, Idaho, United States",False
+86ca4206be0d4bf9bf3af50bcfef468f,UFC 226 - Miocic vs. Cormier,2018-07-07,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+600808d5d1924e3fb2cf78a89a3a82f5,UFC - The Ultimate Fighter 27 Finale,2018-07-06,"Pearl Concert Theater at Palms Casino Resort, Las Vegas, Nevada, United States",False
+20bf2415cb9e40458b1f943963d22dd0,UFC Fight Night 132 - Cerrone vs. Edwards,2018-06-23,"Singapore Indoor Stadium, Kallang, Singapore",False
+9bfb2303d97f46ee919f2ea856bcbfdb,UFC 225 - Whittaker vs. Romero 2,2018-06-09,"United Center, Chicago, Illinois, United States",False
+d0b0dcaa424f40668244fcb227696e57,UFC Fight Night 131 - Rivera vs. Moraes,2018-06-01,"Adirondack Bank Center, Utica, New York, United States",False
+47afd1d9555b4736b5760cf837788fb7,UFC Fight Night 130 - Thompson vs. Till,2018-05-27,"Echo Arena, Liverpool, Merseyside, England",False
+7f562b59178240fcafc0a16c2292097f,UFC Fight Night 129 - Maia vs. Usman,2018-05-19,"Movistar Arena, Santiago, Chile",False
+d7b63f9d09f44561922caf6bb8e27e92,UFC 224 - Nunes vs. Pennington,2018-05-12,"Jeunesse Arena, Rio de Janeiro, Brazil",False
+895f5d52a5764713beca9496a0b78eb6,UFC Fight Night 128 - Barboza vs. Lee,2018-04-21,"Jim Whelan Boardwalk Hall, Atlantic City, New Jersey, United States",False
+f09eba05c3e5432eaef2ef7f88cf261e,UFC on Fox 29 - Poirier vs. Gaethje,2018-04-14,"Gila River Arena, Glendale, Arizona, United States",False
+8adbd7be25a445d69b353e4463f1d083,UFC 223 - Khabib vs. Iaquinta,2018-04-07,"Barclays Center, Brooklyn, New York, United States",False
+e30c59fc5dae48368cd707bd07d5a284,UFC Fight Night 127 - Werdum vs. Volkov,2018-03-17,"O2 Arena, London, Greater London, England",False
+cc7ef74053584232a46e26c947c9face,UFC 222 - Cyborg vs. Kunitskaya,2018-03-03,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+21e61996fc0f47969ae97d0d0b0429cb,UFC on Fox 28 - Emmett vs. Stephens,2018-02-24,"Amway Center, Orlando, Florida, United States",False
+a687291721eb4eff8251ed16d202aa92,UFC Fight Night 126 - Cerrone vs. Medeiros,2018-02-18,"Frank Erwin Center, Austin, Texas, United States",False
+6e8d813093ad496a8dcb28442349cc5a,UFC 221 - Romero vs. Rockhold,2018-02-10,"Perth Arena, Perth, Western Australia, Australia",False
+79172ee718c74f9b85534bbc973303da,UFC Fight Night 125 - Machida vs. Anders,2018-02-03,"Guilherme Paraense (Mangueirinho) Arena, Belem, Para, Brazil",False
+a40785fcce6d4a78952fbbc8bad08e41,UFC on Fox 27 - Jacare vs. Brunson 2,2018-01-27,"Spectrum Center, Charlotte, North Carolina, United States",False
+7a9b0ab310b84dddaa53d715ee1c1498,UFC 220 - Miocic vs. Ngannou,2018-01-20,"TD Garden, Boston, Massachusetts, United States",False
+bb56bd712e5f4ef9be01111eaa961fa0,UFC Fight Night 124 - Stephens vs. Choi,2018-01-14,"Scottrade Center, St. Louis, Missouri, United States",False
+fa91d9ff26c544548ab9bef38445df44,UFC 219 - Cyborg vs. Holm,2017-12-30,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+86e18c2c8f13453fa765c574a8066e51,UFC on Fox 26 - Lawler vs. dos Anjos,2017-12-16,"MTS Centre, Winnipeg, Manitoba, Canada",False
+bfe7cfe697584f40885d3e10661de395,UFC Fight Night 123 - Swanson vs. Ortega,2017-12-09,"Save Mart Center, Fresno, California, United States",False
+2d3aaff1da9247ad88f1aef13421a445,UFC 218 - Holloway vs. Aldo 2,2017-12-02,"Little Caesars Arena, Detroit, Michigan, United States",False
+01742b6a8719433f8eb95fb13bd6291a,UFC - The Ultimate Fighter 26 Finale,2017-12-01,"Park Theater, Las Vegas, Nevada, United States",False
+568964e1cbdf45e68e1cfdc7d049d775,UFC Fight Night 122 - Bisping vs. Gastelum,2017-11-25,"Mercedez-Benz Arena, Shanghai, China",False
+7918d434d02f40038c7412e053339b22,UFC Fight Night 121 - Werdum vs. Tybura,2017-11-18,"Qudos Bank Arena, Sydney, New South Wales, Australia",False
+36752693e740460c9eab3dd92e1cddfa,UFC Fight Night 120 - Poirier vs. Pettis,2017-11-11,"Ted Constant Convocation Center, Norfolk, Virginia, United States",False
+6e6283334b8b466aae1ac47750d85856,UFC 217 - Bisping vs. St. Pierre,2017-11-04,"Madison Square Garden, New York, New York, United States",False
+b192d317094347448536187cc1e86acc,UFC Fight Night 119 - Brunson vs. Machida,2017-10-28,"Geraldo Jose de Almeida (Ibirapuera) Gymnasium, Sao Paulo, Sao Paulo, Brazil",False
+d511a188ba0446a1a7beae55f89ed517,UFC Fight Night 118 - Cerrone vs. Till,2017-10-21,"Ergo Arena, Gdansk, Poland",False
+c3dbb55dbfcf423f8218b7020427fa06,UFC 216 - Ferguson vs. Lee,2017-10-07,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+b6a757f693a04f39ab20d7a4c28554a9,UFC Fight Night 117 - St. Preux vs. Okami,2017-09-22,"Saitama Super Arena, Saitama, Saitama, Japan",False
+2f8314bc3b7a465baaf3b6c646235d0d,UFC Fight Night 116 - Rockhold vs. Branch,2017-09-16,"PPG Paints Arena, Pittsburgh, Pennsylvania, United States",False
+732608d9210f4b3bb4c90cd4d0033dd7,UFC 215 - Nunes vs. Shevchenko 2,2017-09-09,"Rogers Place, Edmonton, Alberta, Canada",False
+3241de2193654c499b8d6f8d774af65d,UFC Fight Night 115 - Volkov vs. Struve,2017-09-02,"Ahoy Rotterdam, Rotterdam, South Holland, Netherlands",False
+3cff20f12ad04da8a944d7156d839047,UFC Fight Night 114 - Pettis vs. Moreno,2017-08-05,"Mexico City Arena, Mexico City, Federal District, Mexico",False
+93cd8470449c44aba5571f57c14c4f2a,UFC 214 - Cormier vs. Jones 2,2017-07-29,"Honda Center, Anaheim, California, United States",False
+1e64fc2333f4470985c9a6df4668da86,UFC on Fox 25 - Weidman vs. Gastelum,2017-07-22,"Nassau Coliseum, Uniondale, New York, United States",False
+75024ef540e3418d80a64cc6de57eacd,UFC Fight Night 113 - Nelson vs. Ponzinibbio,2017-07-16,"SSE Hydro Arena, Glasgow, Scotland",False
+ed50f0a7f3c3493e942827449266f94d,UFC 213 - Romero vs. Whittaker,2017-07-08,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+c3a7520e43cc4148ae15684d10c3c94b,UFC - The Ultimate Fighter 25 Finale,2017-07-07,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+d94c9411290042b0bc48f82e262bd1bb,UFC Fight Night 112 - Chiesa vs. Lee,2017-06-25,"Chesapeake Energy Arena, Oklahoma City, Oklahoma, United States",False
+cd5c9a221ab849f79a41856ecdeb259d,UFC Fight Night 111 - Holm vs. Correia,2017-06-17,"Singapore Indoor Stadium, Kallang, Singapore",False
+b6041a9880a946c789b70c15de9a2fb3,UFC Fight Night 110 - Hunt vs. Lewis,2017-06-10,"Vector Arena, Auckland, New Zealand",False
+3a69299b02b1491b9e86d51842059228,UFC 212 - Aldo vs. Holloway,2017-06-03,"HSBC Arena, Rio de Janeiro, Brazil",False
+76d6189ebd184979854e889eb2ba1ad5,UFC Fight Night 109 - Gustafsson vs. Teixeira ,2017-05-28,"Ericsson Globe Arena, Stockholm, Sweden",False
+66682bff8b314c429dea539aef566a8f,UFC 211 - Miocic vs. Dos Santos 2,2017-05-13,"American Airlines Center, Dallas, Texas, United States",False
+76d9a236d65b4941af326d197de044f4,UFC Fight Night 108 - Swanson vs. Lobov,2017-04-22,"Bridgestone Arena, Nashville, Tennessee, United States",False
+09087faddc9b42a1858f1ec06a880692,UFC on Fox 24 - Johnson vs. Reis,2017-04-15,"Sprint Center, Kansas City, Missouri, United States",False
+ad3bcde8e7d842fd9a66fe5984a6a1ed,UFC 210 - Cormier vs. Johnson 2,2017-04-08,"KeyBank Center, Buffalo, New York, United States",False
+1823580a95394fa39e0f15df6fd82999,UFC Fight Night 107 - Manuwa vs. Anderson,2017-03-18,"O2 Arena, London, England, United Kingdom",False
+b803fe91dcc344cbae06b6181061526c,UFC Fight Night 106 - Belfort vs. Gastelum,2017-03-11,"Northeast Olympic Training Center, Fortaleza, Ceara, Brazil",False
+c7f7e25eb44549cca7cb5380761bb3cd,UFC 209 - Woodley vs. Thompson 2,2017-03-04,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+de779051048d4246a8e4a383cfc559b1,UFC Fight Night 105 - Lewis vs. Browne,2017-02-19,"Scotiabank Centre, Halifax, Nova Scotia, Canada",False
+45798f43f3c34c35b03d052506aec595,UFC 208 - Holm vs. De Randamie,2017-02-11,"Barclays Center, Brooklyn, New York, United States",False
+55e3db820b8349a6bd1a2cf6ecf87cfe,UFC Fight Night 104 - Bermudez vs. Korean Zombie,2017-02-04,"Toyota Center, Houston, Texas, United States",False
+be8963519ff245d0800a57d70cd5fa67,UFC on Fox 23 - Shevchenko vs. Pena,2017-01-28,"Pepsi Center, Denver, Colorado, United States",False
+65a2965b439e46eeb64a2c6d0a9a52cd,UFC Fight Night 103 - Rodriguez vs. Penn,2017-01-15,"Talking Stick Arena, Phoenix, Arizona, United States",False
+fa10072a93614710bf0798bdb55eac28,UFC 207 - Nunes vs. Rousey,2016-12-30,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+e6861e12e76444daab0670fbe6fb664d,UFC on Fox 22 - VanZant vs. Waterson,2016-12-17,"Golden 1 Center, Sacramento, California, United States",False
+e91f6cdd16c74d6a906e288d701d3b7d,UFC 206 - Holloway vs. Pettis,2016-12-10,"Air Canada Centre, Toronto, Ontario, Canada",False
+ace3eab0b62c4eaea62bd150b6963cff,UFC Fight Night 102 - Lewis vs. Abdurakhimov,2016-12-09,"Times Union Center, Albany, New York, United States",False
+ee71804b5e6d42fab8bd59bebcc88cb1,UFC - The Ultimate Fighter 24 Finale,2016-12-03,"Palms Casino Resort, Las Vegas, Nevada, United States",False
+13ff9769482a4122a58bea2c06bf5e88,UFC Fight Night 101 - Whittaker vs. Brunson,2016-11-26,"Rod Laver Arena, Melbourne, Victoria, Australia",False
+eb7add86b20b4b519eec3dba017289f9,UFC Fight Night 100 - Bader vs. Nogueira 2,2016-11-19,"Ibirapuera Gymnasium, Sao Paulo, Sao Paulo, Brazil",False
+d8196bc3ec61446aa0a82e9a16e83a10,UFC Fight Night 99 - Mousasi vs. Hall 2,2016-11-19,"SSE Arena, Belfast, Northern Ireland",False
+0db4bed15edf401e8dd5cd4a19845c90,UFC 205 - Alvarez vs. McGregor,2016-11-12,"Madison Square Garden, New York, New York, United States",False
+989e1a5bebd440a183e923a111706cf4,UFC Fight Night 98 - Dos Anjos vs. Ferguson,2016-11-05,"Mexico City Arena, Mexico City, Federal District, Mexico",False
+d53f13d03fcb46b6be4cadf4b4627d9f,UFC Fight Night 97 - Lamas vs. Penn,2016-10-15,"EVENT CANCELED - Mall of Asia Arena, Pasay, Metro Manila, Philippines",True
+468830e4924940159afaa1c04ba99443,UFC 204 - Bisping vs. Henderson 2,2016-10-08,"Manchester Arena, Manchester, Greater Manchester, England",False
+ace8c2d908de4f2c841f3ef39e5f411c,UFC Fight Night 96 - Lineker vs. Dodson,2016-10-01,"Moda Center, Portland, Oregon, United States",False
+e74518481cf54707aed077f3669aa6a5,UFC Fight Night 95 - Cyborg vs. Lansberg,2016-09-24,"Nilson Nelson Gymnasium, Brasilia, Federal District, Brazil",False
+dff2b6d03c034905b2132daa036daf4f,UFC Fight Night 94 - Poirier vs. Johnson,2016-09-17,"State Farm Arena, Hidalgo, Texas, United States",False
+ad9c2ef590ed4fa892eac25320ba4dd5,UFC 203 - Miocic vs. Overeem,2016-09-10,"Quicken Loans Arena, Cleveland, Ohio, United States",False
+db1ca7c491f64fd5a0461666425d9f90,UFC Fight Night 93 - Arlovski vs. Barnett,2016-09-03,"Barclaycard Arena, Hamburg, Germany",False
+bc34f8bf7e9647f295a18aa2145cb7d7,UFC on Fox 21 - Maia vs. Condit,2016-08-27,"Rogers Arena, Vancouver, British Columbia, Canada",False
+ed9b3a87ba344634b0ba7d4d29b8291d,UFC 202 - Diaz vs. McGregor 2,2016-08-20,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+9a02e0ca0dda4dd1ae49d429f046215f,UFC Fight Night 92 - Rodriguez vs. Caceres,2016-08-06,"Vivint Smart Home Arena, Salt Lake City, Utah, United States",False
+5920e7e349f14ab185573c9c7a346b42,UFC 201 - Lawler vs. Woodley,2016-07-30,"Philips Arena, Atlanta, Georgia, United States",False
+02b57afc56da4cf6862c50c4cc86bfdb,UFC on Fox 20 - Holm vs. Shevchenko,2016-07-23,"United Center, Chicago, Illinois, United States",False
+6585bb6df978499b8f58b13c2cdb9623,UFC Fight Night 91 - McDonald vs. Lineker,2016-07-13,"Denny Sanford Premier Center, Sioux Falls, South Dakota, United States",False
+9ae2900d7c704d5ba084a398d472e410,UFC 200 - Tate vs. Nunes,2016-07-09,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+86109b6155f6446a936050b3a0883310,UFC  - The Ultimate Fighter 23 Finale,2016-07-08,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+31a8cd44543c4037a103801b4334a681,UFC Fight Night 90 - Dos Anjos vs. Alvarez,2016-07-07,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+50a428d19afa4275a3060e4034fbaa4c,UFC Fight Night 89 - MacDonald vs. Thompson,2016-06-18,"TD Place Arena, Ottawa, Ontario, Canada",False
+d381917152c5463689fa6017f1a00006,UFC 199 - Rockhold vs. Bisping 2,2016-06-04,"The Forum, Inglewood, California, United States",False
+072e15ad8d9b44fda5455f1ab1e5d3f7,UFC Fight Night 88 - Almeida vs. Garbrandt,2016-05-29,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+112611cf8002489ba0bf3157cc61bedd,UFC 198 - Werdum vs. Miocic,2016-05-14,"Arena da Baixada, Curitiba, Parana, Brazil",False
+f0f7298096574931918082366475f498,UFC Fight Night 87 - Overeem vs. Arlovski,2016-05-08,"Ahoy Rotterdam, Rotterdam, South Holland, Netherlands",False
+2fb63999506944aaab044c6756d8be06,UFC 197 - Jones vs. St. Preux,2016-04-23,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+c41eef300f2a4c239618af1d7ce95ace,UFC on Fox 19 - Teixeira vs. Evans,2016-04-16,"Amalie Arena, Tampa, Florida, United States",False
+9282771b31704a78b98bb4b8ec966b99,UFC Fight Night 86 - Rothwell vs. Dos Santos,2016-04-10,"Zagreb Arena, Zagreb, Croatia",False
+d9fe709db037476a8e53f0c9b91c84a8,UFC Fight Night 85 - Hunt vs. Mir,2016-03-19,"Brisbane Entertainment Centre, Brisbane, Queensland, Australia",False
+2bdffcf6056c46e78fd8ccef6b8a5a7c,UFC 196 - McGregor vs. Diaz,2016-03-05,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+c01b07bb880a4645b8c822f0d499d8e3,UFC Fight Night 84 - Silva vs. Bisping,2016-02-27,"O2 Arena, London, Greater London, England",False
+e2ee0bedaa4e4ecf9f27623e7320eef9,UFC Fight Night 83 - Cerrone vs. Oliveira,2016-02-21,"Consol Energy Center, Pittsburgh, Pennsylvania, United States",False
+e5ed9a3fd57a434c8aa8faf870cb6b80,UFC Fight Night 82 - Hendricks vs. Thompson,2016-02-06,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+3622c2322bfc4b92b6498643ed2a7cf4,UFC on Fox 18 - Johnson vs. Bader,2016-01-30,"Prudential Center, Newark, New Jersey, United States",False
+7e9db93f626e46f186b3b181510ddbe1,UFC Fight Night 81 - Dillashaw vs. Cruz,2016-01-17,"TD Garden, Boston, Massachusetts, United States",False
+5c7969b93aa64f029c9f7a708d12dc36,UFC 195 - Lawler vs. Condit,2016-01-02,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+f3e69028d7e0465bb37dffc2a8ae21a4,UFC on Fox 17 - Dos Anjos vs. Cerrone 2,2015-12-19,"Amway Center, Orlando, Florida, United States",False
+0efa6557dc8744e98fcf506414bd2ac2,UFC 194 - Aldo vs. McGregor,2015-12-12,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+29efa32109064c03863b1588bae8b244,UFC - The Ultimate Fighter 22 Finale,2015-12-11,"The Chelsea at the Cosmopolitan, Las Vegas, Nevada, United States",False
+9e44e093bde34f24a069274c6df8ae96,UFC Fight Night 80 - Namajunas vs. VanZant,2015-12-10,"The Chelsea at the Cosmopolitan, Las Vegas, Nevada, United States",False
+5e38ca7c6e2a4d329f7a3309d856c7d3,UFC Fight Night 79 - Henderson vs. Masvidal,2015-11-28,"Olympic Gymnastics Arena, Seoul, South Korea",False
+ce379f7c9776469e951056c0757e6972,UFC Fight Night 78 - Magny vs. Gastelum,2015-11-21,"Monterrey Arena, Monterrey, Nuevo Leon, Mexico",False
+c3d5458f3d1447ecbecfcff88dd8d98d,UFC 193 - Rousey vs. Holm,2015-11-14,"Etihad Stadium, Melbourne, Victoria, Australia",False
+72079f4397d642e3a93f49534b8227e3,UFC Fight Night 77 - Belfort vs. Henderson 3,2015-11-07,"Geraldo Jose de Almeida (Ibirapuera) State Gymnasium, Sao Paulo, Sao Paulo, Brazil",False
+ccfe70cca35f41129effb9fd34848dea,UFC Fight Night 76 - Holohan vs. Smolka,2015-10-24,"3Arena, Dublin, Leinster, Ireland",False
+527f83b10b6f4e64bed4c0f2ad6ae1f4,UFC 192 - Cormier vs. Gustafsson,2015-10-03,"Toyota Center, Houston, Texas, United States",False
+987cac396a2f43d7a4c09747bf520939,UFC Fight Night 75 - Barnett vs. Nelson,2015-09-26,"Saitama Super Arena, Saitama, Japan",False
+dca529986da246758879a348b6233b4f,UFC 191 - Johnson vs. Dodson 2,2015-09-05,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+88ae8d251f934815a34a829568bd36b5,UFC Fight Night 74 - Holloway vs. Oliveira,2015-08-23,"SaskTel Centre, Saskatoon, Saskatchewan, Canada",False
+0fd0a27851f041d8bde28e99b26fb2f7,UFC Fight Night 73 - Teixeira vs. St. Preux,2015-08-08,"Bridgestone Arena, Nashville, Tennessee, United States",False
+666c446ca6ab4c239201e83b693b7ae5,UFC 190 - Rousey vs. Correia,2015-08-01,"HSBC Arena, Rio de Janeiro, Rio de Janeiro, Brazil",False
+a0f04eb490aa4476b0edaf99fdfbbbfd,UFC on Fox 16 - Dillashaw vs. Barao 2,2015-07-25,"United Center, Chicago, Illinois, United States",False
+766a9ea47eba4a47b7f861cf345f1a5a,UFC Fight Night 72 - Bisping vs. Leites,2015-07-18,"SSE Hydro Arena, Glasgow, Scotland",False
+1f42ee1aa07c412eb5c7861c3b042052,UFC Fight Night 71 - Mir vs. Duffee,2015-07-15,"Valley View Casino Center, San Diego, California, United States",False
+d36e359fc65340a8b4789fd2c546e68b,UFC - The Ultimate Fighter 21 Finale,2015-07-12,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+4d8273235daa4917851bc2a6474f70bb,UFC 189 - Mendes vs. McGregor,2015-07-11,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+abf732a0543b4795bbc5a163c62ff0ae,UFC Fight Night 70 - Machida vs. Romero,2015-06-27,"Seminole Hard Rock Hotel and Casino, Hollywood, Florida, United States",False
+dca78962e989449289985bf7c5af976c,UFC Fight Night 69 - Jedrzejczyk vs. Penne,2015-06-20,"O2 World, Berlin, Germany",False
+d0c879df650b4156a0eae64214439828,UFC 188 - Velasquez vs. Werdum,2015-06-13,"Mexico City Arena, Mexico City, Federal District, Mexico",False
+b303fc9c48da4248bf9235820af27cc5,UFC Fight Night 68 - Boetsch vs. Henderson,2015-06-06,"Smoothie King Center, New Orleans, Louisiana, United States",False
+c92e0f4c8b3542fbbf6e31154c6bddf0,UFC Fight Night 67 - Condit vs. Alves,2015-05-30,"Goiania Arena, Goiania, Goias, Brazil",False
+24c1e4bbf5534f4ea050dc8d1895b66c,UFC 187 - Johnson vs. Cormier,2015-05-23,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+cd2dc318aaee4baabb072a507e5614cc,UFC Fight Night 66 - Edgar vs. Faber,2015-05-16,"Mall of Asia Arena, Pasay, Metro Manila, Philippines",False
+9c1d31040bea4ec398f3b4d01a8f7800,UFC Fight Night 65 - Miocic vs. Hunt,2015-05-10,"Adelaide Entertainment Centre, Adelaide, South Australia, Australia",False
+3cb6faa78f4d491e8d5cbbcc27236ab3,UFC 186 - Johnson vs. Horiguchi,2015-04-25,"Bell Centre, Montreal, Quebec, Canada",False
+4c76d0c40c7441b8b22d75651c83eccf,UFC on Fox 15 - Machida vs. Rockhold,2015-04-18,"Prudential Center, Newark, New Jersey, United States",False
+39abc5d08aba41bca656f9cac1262010,UFC Fight Night 64 - Gonzaga vs. Cro Cop 2,2015-04-11,"Krakow Arena, Krakow, Lesser Poland, Poland",False
+8c41673c69bd44c6985f900bbcb77684,UFC Fight Night 63 - Mendes vs. Lamas,2015-04-04,"Patriot Center, Fairfax, Virginia, United States",False
+be600a554b0d4a2abfc64e9a58c7fa2d,UFC Fight Night 62 - Maia vs. LaFlare,2015-03-21,"Maracanazinho Gymnasium, Rio de Janeiro, Brazil",False
+35079384ec6e442f876b48819dcd74bf,UFC 185 - Pettis vs. dos Anjos,2015-03-14,"American Airlines Center, Dallas, Texas, United States",False
+a26bc4a64af943ffa579305b8f5c847c,UFC 184 - Rousey vs. Zingano,2015-02-28,"Staples Center, Los Angeles, California, United States",False
+13bcc8110c7240798be0c9ec8ca182b2,UFC Fight Night 61 - Bigfoot vs. Mir,2015-02-22,"Gigantinho Gymnasium, Porto Alegre, Rio Grande do Sul, Brazil",False
+bf78dae9e9cf476387fec5266f2fbe05,UFC Fight Night 60 - Henderson vs. Thatch,2015-02-14,"1stBank Center, Broomfield, Colorado, United States",False
+0f5dfe3a6f2e4803a5070339869e94d5,UFC 183 - Silva vs. Diaz,2015-01-31,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+89743e16979949019b4e7bdcc1cea00c,UFC on Fox 14 - Gustafsson vs. Johnson,2015-01-24,"Tele2 Arena, Stockholm, Sweden",False
+68a4005abaee4b48b37a427eee47ef5b,UFC Fight Night 59 - McGregor vs. Siver,2015-01-18,"TD Garden, Boston, Massachusetts, United States",False
+b0e1f3ed96d34a6ab8c4e68cd11832fe,UFC 182 - Jones vs. Cormier,2015-01-03,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+ce2e55ab341a40559ad0539f21e68b6c,UFC Fight Night 58 - Machida vs. Dollaway,2014-12-20,"Jose Correa Arena, Barueri, Sao Paulo, Brazil",False
+1d3a466657ed4d3fa56e025468ec7ba6,UFC on Fox 13 - Dos Santos vs. Miocic,2014-12-13,"US Airways Center, Phoenix, Arizona, United States",False
+0f13554e60604dac9dcd1f2e3ca211b9,UFC - The Ultimate Fighter 20 Finale,2014-12-12,"Palms Casino Resort, Las Vegas, Nevada, United States",False
+b360583fac104dd9937a0ee545061752,UFC 181 - Hendricks vs. Lawler 2,2014-12-06,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+4697687100e74d9398c434360d2440c1,UFC Fight Night 57 - Edgar vs. Swanson,2014-11-22,"Frank Erwin Center, Austin, Texas, United States",False
+51fc9f93e683409c8d9bc0d3110b30bc,UFC 180 - Werdum vs. Hunt,2014-11-15,"Mexico City Arena, Mexico City, Federal District, Mexico",False
+02a6c458398e4d96af5ff137c86c03eb,UFC Fight Night 56 - Shogun vs. St. Preux,2014-11-08,"Tancredo Neves Municipal Gymnasium, Uberlandia, Minas Gerais, Brazil",False
+851aec186db745e4b5d96917923a4bc6,UFC Fight Night 55 - Rockhold vs. Bisping,2014-11-07,"Allphones Arena, Sydney, New South Wales, Australia",False
+fd8e17af08f14418a5c318a7fde311c0,UFC 179 - Aldo vs. Mendes 2,2014-10-25,"Maracanazinho Gymnasium, Rio de Janeiro, Rio de Janeiro, Brazil",False
+9707ee30a5074e7eb7e0f319da573a11,UFC Fight Night 54 - MacDonald vs. Saffiedine,2014-10-04,"Halifax Metro Centre, Halifax, Nova Scotia, Canada",False
+3b6b15fde827494086310133b7305ff6,UFC Fight Night 53 - Nelson vs. Story,2014-10-04,"Ericsson Globe Arena, Stockholm, Sweden",False
+9221b118997f428aa872820a14adcdcf,UFC 178 - Johnson vs. Cariaso,2014-09-27,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+9480e13ec6754326bfd638f4bd61ed64,UFC Fight Night 52 - Hunt vs. Nelson,2014-09-20,"Saitama Super Arena, Saitama, Japan",False
+8aa99282dc974b18b0110f1c05891e82,UFC Fight Night 51 - Bigfoot vs. Arlovski 2,2014-09-13,"Nilson Nelson Gymnasium, Brasilia, Federal District, Brazil",False
+dccc47f177d04c37ac62c8d7d09516b3,UFC Fight Night 50 - Jacare vs. Mousasi 2,2014-09-05,"Foxwoods Resort Casino, Mashantucket, Connecticut, United States",False
+fe38057b422f4957a13fde13407e060f,UFC 177 - Dillashaw vs. Soto,2014-08-30,"Sleep Train Arena, Sacramento, California, United States",False
+a2b98ac7bdb44c948566c842687d96d6,UFC Fight Night 49 - Henderson vs. dos Anjos,2014-08-23,"BOK Center, Tulsa, Oklahoma, United States",False
+c56390f837e942e490573f43a3f70d0b,UFC Fight Night 48 - Bisping vs. Le,2014-08-23,"Cotai Arena, Macau, China",False
+118189ba3a704f8585bb376fd68195b8,UFC Fight Night 47 - Bader vs. St. Preux,2014-08-16,"Cross Insurance Center, Bangor, Maine, United States",False
+92daa6efcb434789b27113385eac98ab,UFC 176 - Aldo vs. Mendes 2,2014-08-02,"EVENT CANCELED - Staples Center, Los Angeles, California, United States",True
+867856f74d994258906c78ea1b44ef37,UFC on Fox 12 - Lawler vs. Brown,2014-07-26,"SAP Center, San Jose, California, United States",False
+fb51bdc505b040ef9a1311180b8010f5,UFC Fight Night 46 - McGregor vs. Brandao,2014-07-19,"The O2, Dublin, Leinster, Ireland",False
+3ac931761fd94e7dafac08da6b6005a6,UFC Fight Night 45 - Cerrone vs. Miller,2014-07-16,"Revel Casino Hotel, Atlantic City, New Jersey, United States",False
+e748cc0521524314a59b6b1de55e827b,UFC - The Ultimate Fighter 19 Finale,2014-07-06,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+e72f36c2659445f98fb834fda2fb5b31,UFC 175 - Weidman vs. Machida,2014-07-05,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+316b57483ecd44ff8693fb5a888d58e9,UFC Fight Night 44 - Swanson vs. Stephens,2014-06-28,"AT&T Center, San Antonio, Texas, United States",False
+1beb2e77209b4b3dbfd1042326e41b3c,UFC Fight Night 43 - Te Huna vs. Marquardt,2014-06-28,"Vector Arena, Auckland, New Zealand",False
+2c0dc842e2364261ab9d95e649a6111a,UFC 174 - Johnson vs. Bagautinov,2014-06-14,"Rogers Arena, Vancouver, British Columbia, Canada",False
+b705426e08f343b3bd6103e2ba723a65,UFC Fight Night 42 - Henderson vs. Khabilov,2014-06-07,"Tingley Coliseum, Albuquerque, New Mexico, United States",False
+78b111c41c614b21a8ff502abe4d7461,UFC Fight Night 41 - Munoz vs. Mousasi,2014-05-31,"O2 World, Berlin, Germany",False
+763e3666cc9745db9c56577037cdd472,UFC - The Ultimate Fighter Brazil 3 Finale,2014-05-31,"Geraldo Jose de Almeida (Ibirapuera) Gymnasium, Sao Paulo, Sao Paulo, Brazil",False
+1aa01fe9f7d8430d86e28965de76b543,UFC 173 - Barao vs. Dillashaw,2014-05-24,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+d28b42efe0364742a7f1bc5a22cf3eba,UFC Fight Night 40 - Brown vs. Silva,2014-05-10,"U.S. Bank Arena, Cincinnati, Ohio, United States",False
+ebe8ffae72ac4e2ebf058abde96eb26e,UFC 172 - Jones vs. Teixeira,2014-04-26,"Baltimore Arena, Baltimore, Maryland, United States",False
+01512a763ccf4e01a7bdde5670c4a0aa,UFC on Fox 11 - Werdum vs. Browne,2014-04-19,"Amway Center, Orlando, Florida, United States",False
+82a8cd769f6f417085f88d338a4183ee,UFC - The Ultimate Fighter Nations Finale,2014-04-16,"Pepsi Coliseum, Quebec City, Quebec, Canada",False
+ee13a661dd514754ba52c5f829fce2f4,UFC Fight Night 39 - Nogueira vs. Nelson,2014-04-11,"DU Arena, Abu Dhabi, United Arab Emirates",False
+304be5bbff6b4f34b54c4f76a30d15ac,UFC Fight Night 38 - Shogun vs. Henderson 2,2014-03-23,"Nelio Dias Gymnasium, Natal, Rio Grande do Norte, Brazil",False
+ddd655e2c242488786145f5fc8864804,UFC 171 - Hendricks vs. Lawler,2014-03-15,"American Airlines Arena, Dallas, Texas, United States",False
+e77a3944f5c449c6be849e144c29bc4f,UFC Fight Night 37 - Gustafsson vs. Manuwa,2014-03-08,"O2 Arena, London, Greater London, England",False
+80027795337b45938c386e1349fd095f,UFC - The Ultimate Fighter China Finale,2014-03-01,"Cotai Arena, Macau, China",False
+18f572d2aebe4de09d638f63a4af1ade,UFC 170 - Rousey vs. McMann,2014-02-22,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+3ecb65c45d37442eb563b8d3446c024b,UFC Fight Night 36 - Machida vs. Mousasi,2014-02-15,"Arena Jaragua, Jaragua do Sul, Santa Catarina, Brazil",False
+1285cff9f6d0423a8d88e156dc064202,UFC 169 - Barao vs. Faber 2,2014-02-01,"Prudential Center, Newark, New Jersey, United States",False
+9a35bd12ed24479c894f81b5b39a522f,UFC on Fox 10 - Henderson vs. Thomson,2014-01-25,"United Center, Chicago, Illinois, United States",False
+dd99b19304044bf2993962f1f0a4992a,UFC Fight Night 35 - Rockhold vs. Philippou,2014-01-15,"The Arena at Gwinnett Center, Duluth, Georgia, United States",False
+37510b29b1dd44fdb38cd30659fe6550,UFC Fight Night 34 - Saffiedine vs. Lim,2014-01-04,"Marina Bay Sands, Marina Bay, Singapore",False
+2a230f942cfe4141a0cd7a5bc70051a8,UFC 168 - Weidman vs. Silva 2,2013-12-28,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+1ba9108d18b04c80a8bf4801a347210a,UFC on Fox 9 - Johnson vs. Benavidez 2,2013-12-14,"Sleep Train Arena, Sacramento, California, United States",False
+e178ec878f5d4cf39e0580cb618d91da,UFC Fight Night 33 - Hunt vs. Bigfoot,2013-12-07,"Brisbane Entertainment Centre, Brisbane, Queensland, Australia",False
+aee74cccb0494c1c88014e33755a2c77,UFC - The Ultimate Fighter 18 Finale,2013-11-30,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+f0e35ea249f8482bba916b64dc1748c1,UFC 167 - St. Pierre vs. Hendricks,2013-11-16,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+355ae76681044ce498f05fc90b157ada,UFC Fight Night 32 - Belfort vs. Henderson,2013-11-09,"Goiania Arena, Goiania, Goias, Brazil",False
+48dac4c784cc442d95ea96b00dc34000,UFC Fight Night 31 - Fight for the Troops 3,2013-11-06,"Fort Campbell, Hopkinsville, Kentucky, United States",False
+ea45d7b6f4bd4a3f90dffc5ae2bc3514,UFC Fight Night 30 - Machida vs. Munoz,2013-10-26,"Phones 4U Arena, Manchester, Greater Manchester, England",False
+92206e232cd74ad3a0196f2926f30336,UFC 166 - Velasquez vs. Dos Santos 3,2013-10-19,"Toyota Center, Houston, Texas, United States",False
+825bcf318027447ea13c57c819ef3c37,UFC Fight Night 29 - Maia vs. Shields,2013-10-09,"Jose Correa Gymnasium, Barueri, Sao Paulo, Brazil",False
+bdb62694dce0412fabc3651cb3234ba6,UFC 165 - Jones vs. Gustafsson,2013-09-21,"Air Canada Centre, Toronto, Ontario, Canada",False
+268f8c937284456faf6ffa67d690622e,UFC Fight Night 28 - Teixeira vs. Bader,2013-09-04,"Jornalista Felipe Drumond Stadium, Belo Horizonte, Minas Gerais, Brazil",False
+784cd2daddf74e5d92597859dba9ce98,UFC 164 - Henderson vs. Pettis 2,2013-08-31,"BMO Harris Bradley Center, Milwaukee, Wisconsin, United States",False
+fd8105fbf8314f27bbfceb12f356bd6c,UFC Fight Night 27 - Condit vs. Kampmann 2,2013-08-28,"Bankers Life Fieldhouse, Indianapolis, Indiana, United States",False
+4e72bb7a49be4c38b4f81752b197cf3f,UFC Fight Night 26 - Shogun vs. Sonnen,2013-08-17,"TD Garden, Boston, Massachusetts, United States",False
+5962d3e0e092427dbaac56ba3cb4e9e7,UFC 163 - Aldo vs. Korean Zombie,2013-08-03,"HSBC Arena, Rio de Janeiro, Brazil",False
+49ba521bf7ef4db9ac28616cec69b162,UFC on Fox 8 - Johnson vs. Moraga,2013-07-27,"KeyArena, Seattle, Washington, United States",False
+61684afa6e364049b2582f5373929c98,UFC 162 - Silva vs. Weidman,2013-07-06,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+fc1067650bda4dc9825640e86996b9b7,UFC 161 - Evans vs. Henderson,2013-06-15,"MTS Centre, Winnipeg, Manitoba, Canada",False
+db7b3baa297b4c968061385730fb057b,UFC on Fuel TV 10 - Nogueira vs. Werdum,2013-06-08,"Paulo Sarasate Gymnasium, Fortaleza, Ceara, Brazil",False
+67741d539eec4c09b385482885146a1b,UFC 160 - Velasquez vs. Bigfoot 2,2013-05-25,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+b293418b07d1466ba4349237c043d1ee,UFC on FX 8 - Belfort vs. Rockhold,2013-05-18,"Arena Jaragua, Jaragua do Sul, Santa Catarina, Brazil",False
+ff3c1f94c0554370a4ead82baaeb940f,UFC 159 - Jones vs. Sonnen,2013-04-27,"Prudential Center, Newark, New Jersey, United States",False
+e55ec04988dc467bbc97ad07042a3dd5,UFC on Fox 7 - Henderson vs. Melendez,2013-04-20,"HP Pavilion, San Jose, California, United States",False
+227d771cd6a847c7be6dc2c829954e5c,UFC - The Ultimate Fighter 17 Finale,2013-04-13,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+c9922fb2b8d3497e8794df49fa8a9ea6,UFC on Fuel TV 9 - Mousasi vs. Latifi,2013-04-06,"Ericsson Globe Arena, Stockholm, Sweden",False
+66c61209865a48b9a9eee6ff9d6112f7,UFC 158 - St. Pierre vs. Diaz,2013-03-16,"Bell Centre, Montreal, Quebec, Canada",False
+88bb35ba60494762a8c550e28f40e4f5,UFC on Fuel TV 8 - Silva vs. Stann,2013-03-03,"Saitama Super Arena, Saitama, Japan",False
+df19bdebbf824bb88e8f91c820da4b2a,UFC 157 - Rousey vs. Carmouche,2013-02-23,"Honda Center, Anaheim, California, United States",False
+48e30a3d3e1541169a4934d075de1cf6,UFC on Fuel TV 7 - Barao vs. McDonald,2013-02-16,"Wembley Arena, London, England",False
+5564299ffa6b49bfb6b9c4179a3076b0,UFC 156 - Aldo vs. Edgar,2013-02-02,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+4e046b9810e64a42b1a1129f96f955ac,UFC on Fox 6 - Johnson vs. Dodson,2013-01-26,"United Center, Chicago, Illinois, United States",False
+8409750818164212b161bcac9119d666,UFC on FX 7 - Belfort vs. Bisping,2013-01-19,"Geraldo Jose de Almeida State Gymnasium, Sao Paulo, Brazil",False
+fd72902bcff14bb99e5878e2bbef7f54,UFC 155 - Dos Santos vs. Velasquez 2,2012-12-29,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+c69b7c0d178b48f5ac399784577ab116,UFC - The Ultimate Fighter 16 Finale,2012-12-15,"The Joint at the Hard Rock Hotel & Casino, Las Vegas, Nevada, United States",False
+64d3fba3e3634e1e9ba4e4d5a24aa5c4,UFC on FX 6 - Sotiropoulos vs. Pearson,2012-12-15,"Gold Coast Convention Centre, Gold Coast, Queensland, Australia",False
+b22cf4d9f24c4f4cb3454ab3f25ac12a,UFC on Fox 5 - Henderson vs. Diaz,2012-12-08,"Key Arena, Seattle, Washington, United States",False
+eef401bab75147e4b860b60339dace9b,UFC 154 - St. Pierre vs. Condit,2012-11-17,"Bell Centre, Montreal, Quebec, Canada",False
+5cd07db826324790ac50f25a0bb06d96,UFC on Fuel TV 6 - Franklin vs. Le,2012-11-10,"Cotai Arena, Cotai, Macau, China",False
+12976abb859b421092d6f7615ef7d2c4,UFC 153 - Silva vs. Bonnar,2012-10-13,"HSBC Arena, Rio de Janeiro, Brazil",False
+4396f9d437cb488e91331434517fa644,UFC on FX 5 - Browne vs. Bigfoot,2012-10-05,"Target Center, Minneapolis, Minnesota, United States",False
+4ba45f4d55184e20818bc4e2dd2e9c3d,UFC on Fuel TV 5 - Struve vs. Miocic,2012-09-29,"Capital FM Arena, Nottingham, England",False
+5c75a0f8f6b14c79be8c01eabc49b1fc,UFC 152 - Jones vs. Belfort,2012-09-22,"Air Canada Centre, Toronto, Ontario, Canada",False
+ddf935c46a5e4a43b2c36a36ae352878,UFC 151 - Jones vs. Henderson,2012-09-01,"EVENT CANCELED - 
+Mandalay Bay Events Center, Las Vegas, Nevada, United States",True
+d9534d20f0134e738a1c5094f85e175f,UFC 150 - Henderson vs. Edgar 2,2012-08-11,"Pepsi Center, Denver, Colorado, United States",False
+3ad630fea79d4117870e615b6e789ddf,UFC on Fox 4 - Shogun vs. Vera,2012-08-04,"Staples Center, Los Angeles, California, United States",False
+10db7825479c488e91d70565124384f6,UFC 149 - Faber vs. Barao,2012-07-21,"Scotiabank Saddledome, Calgary, Alberta, Canada",False
+c96d8f05c00d4a268a1d58f22eb8851d,UFC on Fuel TV 4 - Munoz vs. Weidman,2012-07-11,"HP Pavillion, San Jose, California, United States",False
+67e62ec0b4b54a93ba568401f5471681,UFC 148 - Silva vs. Sonnen 2,2012-07-07,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+a3dd4e33d5ff4b28aa0cba58795af197,UFC 147 - Silva vs. Franklin 2,2012-06-23,"Jornalista Felipe Drumond Stadium, Belo Horizonte, Minas Gerais, Brazil",False
+102630d0ae3a466bb339ecada3ac4a9e,UFC on FX 4 - Maynard vs. Guida,2012-06-22,"Revel Atlantic City, Atlantic City, New Jersey, United States",False
+bd46d22b875343d7af01a7e64ea263f4,UFC on FX 3 - Johnson vs. McCall,2012-06-08,"BankAtlantic Center, Fort Lauderdale, Florida, United States",False
+c9ac540e60574f4091390c509cb8955d,UFC - The Ultimate Fighter 15 Finale,2012-06-01,"Palms Casino Resort, Las Vegas, Nevada, United States",False
+703e3b567075434888ea6f50fe846f49,UFC 146 - Dos Santos vs. Mir,2012-05-26,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+cf0754b4d5da469d9b27ab8a110928cd,UFC on Fuel TV 3 - Korean Zombie vs. Poirier,2012-05-15,"Patriot Center, Fairfax, Virginia, United States",False
+650a6afa08be48ad825a070dc5251bbe,UFC on Fox 3 - Diaz vs. Miller,2012-05-05,"Izod Center, East Rutherford, New Jersey, United States",False
+e7e5f0b3452b4b01ba006ced0594ead0,UFC 145 - Jones vs. Evans,2012-04-21,"Phillips Arena, Atlanta, Georgia, United States",False
+78c04d1a7e8c4b1eb9e63a86de6cc297,UFC on Fuel TV 2 - Gustafsson vs. Silva,2012-04-14,"Ericsson Globe Arena, Stockholm, Sweden",False
+d4ddfde5940c416982a0739ec7936a55,UFC on FX 2 - Alves vs. Kampmann,2012-03-03,"Allphones Arena, Sydney, New South Wales, Australia",False
+ff46758c203942df8cea002006968402,UFC 144 - Edgar vs. Henderson,2012-02-26,"Saitama Super Arena, Saitama, Japan",False
+c73eb51701e2466798e87dd9113574fc,UFC on Fuel TV 1 - Sanchez vs. Ellenberger,2012-02-15,"Omaha Civic Auditorium, Omaha, Nebraska, United States",False
+9a3e4e4491df4f20823f0ebf75977a08,UFC 143 - Diaz vs. Condit,2012-02-04,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+f39f54f7517645caa445480f506ddce0,UFC on Fox 2 - Evans vs. Davis,2012-01-28,"United Center, Chicago, Illinois, United States",False
+82787518c4b8427aa05982ed099db550,UFC on FX 1 - Guillard vs. Miller,2012-01-20,"Bridgestone Arena, Nashville, Tennessee, United States",False
+1071b4db4a7e4748a65a95ed6bb18b50,UFC 142 - Aldo vs. Mendes,2012-01-14,"HSBC Arena, Rio de Janeiro, Brazil",False
+440931ff2f104132bd1f01552e9439f9,UFC 141 - Lesnar vs. Overeem,2011-12-30,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+faf1a9f481cd4b47957ca6193beeecee,UFC 140 - Jones vs. Machida,2011-12-10,"Air Canada Centre, Toronto, Ontario, Canada",False
+a020b202ced447468375fe57c8d71aed,UFC - The Ultimate Fighter 14 Finale,2011-12-03,"The Pearl at the Palms, Las Vegas, Nevada, United States",False
+0e5fb63a2ff4458ba99f51e3f07c1115,UFC 139 - Shogun vs. Henderson,2011-11-19,"HP Pavillion, San Jose, California, United States",False
+a2b0ad616fff438cbe485b7b348ddfc7,UFC on Fox 1 - Velasquez vs. Dos Santos,2011-11-12,"Honda Center, Anaheim, California, United States",False
+581eebfb404c43ccbd9b0cf2ee5d90fb,UFC 138 - Leben vs. Munoz,2011-11-05,"LG Arena, Birmingham, West Midlands, England",False
+21ac6e8072784ea99dfd829a32f6caf1,UFC 137 - Penn vs. Diaz,2011-10-29,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+95e8a0240a6f499e94397885a3bf7cef,UFC 136 - Edgar vs. Maynard 3,2011-10-08,"Toyota Center, Houston, Texas, United States",False
+5d9a4db3869545efb2ab7549aa76e577,UFC Live 6 - Cruz vs. Johnson,2011-10-01,"Verizon Center, Washington, D.C., United States",False
+f9637af0060f4a149340a42b285e76aa,UFC 135 - Jones vs. Rampage,2011-09-24,"Pepsi Center, Denver, Colorado, United States",False
+47e9d37c87ad43788e634e774a0f5fc4,UFC Fight Night 25 - Shields vs. Ellenberger,2011-09-17,"Ernest N. Morial Convention Center, New Orleans, Louisiana, United States",False
+1c5bb07bc78a4f56992236f2d062b28c,UFC 134 - Silva vs. Okami,2011-08-27,"HSBC Arena, Rio de Janeiro, Brazil",False
+c3bde34cda5948259e9e527903788e27,UFC Live 5 - Hardy vs. Lytle,2011-08-14,"Bradley Center, Milwaukee, Wisconsin, United States",False
+f64c6aa2662b45d0bd79c9b8d495512e,UFC 133 - Evans vs. Ortiz 2,2011-08-06,"Wells Fargo Center, Philadelphia, Pennsylvania, United States",False
+0148d8dbfd0642c39e3d9c978799850b,UFC 132 - Cruz vs. Faber 2,2011-07-02,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+e2e2ca026950461f8fadce89da0f63cb,UFC Live 4 - Kongo vs. Barry,2011-06-26,"Consol Energy Center, Pittsburgh, Pennsylvania, United States",False
+b14bc7c9f018429f9165b9f8bdca900f,UFC 131 - Dos Santos vs. Carwin,2011-06-11,"Rogers Arena, Vancouver, British Columbia, Canada",False
+3f8df8d3b87b429cac29246674ee5a60,UFC - The Ultimate Fighter 13 Finale,2011-06-04,"Palms Casino Resort, Las Vegas, Nevada, United States",False
+66b05e5f32e3456284bd9ae62e6f6ab8,UFC 130 - Rampage vs. Hamill,2011-05-28,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+a3e0df9bba274d02b7406bdcd20c8472,UFC 129 - St. Pierre vs. Shields,2011-04-30,"Rogers Centre, Toronto, Ontario, Canada",False
+3a1a49bc03d14aefb462ac5127be20c9,UFC Fight Night 24 - Nogueira vs. Davis,2011-03-26,"Key Arena, Seattle, Washington, United States",False
+138d16546e4147df84a22b381c857981,UFC 128 - Shogun vs. Jones,2011-03-19,"Prudential Center, Newark, New Jersey, United States",False
+eab0030a796642c3918084ee39d8dbb7,UFC Live 3 - Sanchez vs. Kampmann,2011-03-03,"KFC Yum! Center, Louisville, Kentucky, United States",False
+667590e3b59647548276c55402d41956,UFC 127 - Penn vs. Fitch,2011-02-27,"Acer Arena, Sydney, New South Wales, Australia",False
+32129b175574432084ea85fd9eac3fab,UFC 126 - Silva vs. Belfort,2011-02-05,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+c6a1dc1c4de54c068bd7a7b70fcd47cc,UFC Fight Night 23 - Fight for the Troops 2,2011-01-22,"Fort Hood, Killeen, Texas, United States",False
+9417ad0bf9584b94ba448029433352d2,UFC 125 - Resolution,2011-01-01,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+61c44e70bbb14b9289e73459c60d051a,UFC 124 - St. Pierre vs. Koscheck 2,2010-12-11,"Bell Centre, Montreal, Quebec, Canada",False
+b46f7e676159425f837a92523acce09c,UFC - The Ultimate Fighter 12 Finale,2010-12-04,"Palms Casino Resort, Las Vegas, Nevada, United States",False
+dba3db8a60e5493e8dfe1e3d1c05369a,UFC 123 - Rampage vs. Machida,2010-11-20,"The Palace of Auburn Hills, Auburn Hills, Michigan, United States",False
+daef3154033b492c85e32d34b44f87f2,UFC 122 - Marquardt vs. Okami,2010-11-13,"Konig Pilsener Arena, Oberhausen, Germany",False
+d75e1756fa2f47d88e2b3db1efd73ad8,UFC 121 - Lesnar vs. Velasquez,2010-10-23,"Honda Center, Anaheim, California, United States",False
+0d9f784536394280a2204f7fa9ae1e44,UFC 120 - Bisping vs. Akiyama,2010-10-16,"O2 Arena, London, England",False
+0f511a8db52740e48ba2e7014ea8fb7d,UFC 119 - Mir vs. Cro Cop,2010-09-25,"Conseco Fieldhouse, Indianapolis, Indiana, United States",False
+161effd5643542ada6fd51bdcb953a95,UFC Fight Night 22 - Marquardt vs. Palhares,2010-09-15,"Frank Erwin Center, Austin, Texas, United States",False
+343c73a738914180ab35d938c564797f,UFC 118 - Edgar vs. Penn 2,2010-08-28,"TD Garden, Boston, Massachusetts, United States",False
+10aa46c93aec417b92cfd39893a4624f,UFC 117 - Silva vs. Sonnen,2010-08-07,"Oracle Arena, Oakland, California, United States",False
+f4d8e5cd2d254a64ac4cb5bf4e07cf14,UFC Live 2 - Jones vs. Matyushenko,2010-08-01,"San Diego Sports Arena, San Diego, California, United States",False
+1365ef3672614f2f8790477bf868ad38,UFC 116 - Lesnar vs. Carwin,2010-07-03,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+5ad35c5126f34fceba5f6c5e1caf8cf2,UFC - The Ultimate Fighter 11 Finale,2010-06-19,"Palms Casino Resort, Las Vegas, Nevada, United States",False
+804e5efad10a4009a7b3f0498d28211d,UFC 115 - Liddell vs. Franklin,2010-06-12,"GM Place, Vancouver, British Columbia, Canada",False
+35d84fc37c84493cb97a3a5da17aa25c,UFC 114 - Rampage vs. Evans,2010-05-29,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+c709df9f30ff41e08760914a611c885d,UFC 113 - Machida vs. Shogun 2,2010-05-08,"Bell Centre, Montreal, Quebec, Canada",False
+159ed60fe5154c84a417e1f245d8308e,UFC 112 - Invincible,2010-04-10,"Ferrari World Concert Arena, Abu Dhabi, United Arab Emirates",False
+b972afb6e5e94933a7f2c44b2efa01bd,UFC Fight Night 21 - Florian vs. Gomi,2010-03-31,"Bojangles Coliseum, Charlotte, North Carolina, United States",False
+9be530b029fd4eb3b756a83b54cf14c0,UFC 111 - St. Pierre vs. Hardy,2010-03-27,"Prudential Center, Newark, New Jersey, United States",False
+911c40bdfb07436d992f5edbde425b7d,UFC Live 1 - Vera vs. Jones,2010-03-21,"1stBank Center, Broomfield, Colorado, United States",False
+d7f48990e7b84d8e973659e866ed703e,UFC 110 - Nogueira vs. Velasquez,2010-02-20,"Acer Arena, Sydney, New South Wales, Australia",False
+31a9523ce67344fb87ed5a9c7dbbf7ef,UFC 109 - Relentless,2010-02-06,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+9a093bd6c867438ba5117b985703eef5,UFC Fight Night 20 - Maynard vs. Diaz,2010-01-11,"Patriot Center, Fairfax, Virginia, United States",False
+c3f0ebe90cf34668842f33b1ca6961d7,UFC 108 - Evans vs. Silva,2010-01-02,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+5b832f13186b44da86e3a14fbdd7109b,UFC 107 - Penn vs. Sanchez,2009-12-12,"FedEx Forum, Memphis, Tennessee, United States",False
+091883cf8b674bb686d42dfb1afe8411,UFC - The Ultimate Fighter 10 Finale,2009-12-05,"Palms Casino Resort, Las Vegas, Nevada, United States",False
+9e4f63fabebf499aa9c8d426a7b3869e,UFC 106 - Ortiz vs. Griffin 2,2009-11-21,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+bea562a712d14c3fb8f44f2c5e4aba8b,UFC 105 - Couture vs. Vera,2009-11-14,"Manchester Evening News Arena, Manchester, Lancashire, England",False
+79c5cb47b8dc496f9aa0195d953eae59,UFC 104 - Machida vs. Shogun,2009-10-24,"Staples Center, Los Angeles, California, United States",False
+e65273f7639c44b281d577363c6b2d05,UFC 103 - Franklin vs. Belfort,2009-09-19,"American Airlines Center, Dallas, Texas, United States",False
+ad978446077d4cb38d2a4c23a69d2437,UFC Fight Night 19 - Diaz vs. Guillard,2009-09-16,"Cox Convention Center, Oklahoma City, Oklahoma, United States",False
+31f1ff724ed74ac297c20afa6aac2cd1,UFC 102 - Couture vs. Nogueira,2009-08-29,"Rose Garden Arena, Portland, Oregon, United States",False
+fb8438b23ac74d82970740fc4baa9321,UFC 101 - Declaration,2009-08-08,"Wachovia Center, Philadelphia, Pennsylvania, United States",False
+eb959e28c0394dde98a71c322b7dedcc,UFC 100 - Lesnar vs. Mir 2,2009-07-11,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+8456dec5aebf4e609f17fb7c45c721a0,UFC - The Ultimate Fighter 9 Finale,2009-06-20,"Palms Casino Resort, Las Vegas, Nevada, United States",False
+888da4dbb72c4dd594f187fdd4297324,UFC 99 - The Comeback,2009-06-13,"Lanxess Arena, Cologne, Germany",False
+281bd1a7417c45b8984df3a37fe0ec6e,UFC 98 - Evans vs. Machida,2009-05-23,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+2b9c1f8eb4e745d8ba11d213b9567f21,UFC 97 - Redemption,2009-04-18,"Bell Centre, Montreal, Quebec, Canada",False
+f117eaa1779b4a5982966c61d64aa69c,UFC Fight Night 18 - Condit vs. Kampmann,2009-04-01,"Sommet Center, Nashville, Tennessee, United States",False
+09b56b0179504ef6831e93ab137ed47a,UFC 96 - Jackson vs. Jardine,2009-03-07,"Nationwide Arena, Columbus, Ohio, United States",False
+73c3784c9bfd488392fe51d23f224441,UFC 95 - Sanchez vs. Stevenson,2009-02-21,"O2 Arena, London, England",False
+f09ac8ca6ba14c9ba767b662a6411fef,UFC Fight Night 17 - Lauzon vs. Stephens,2009-02-07,"USF Sun Dome, Tampa, Florida, United States",False
+6cfe70b61757498aacbe83203ce3fb45,UFC 94 - St. Pierre vs. Penn 2,2009-01-31,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+4e892d9f7bea4ae58b33c7e9e354aa29,UFC 93 - Franklin vs. Henderson,2009-01-17,"O2 Arena, Dublin, Ireland",False
+5039431de9ac410994450e311dee7201,UFC 92 - The Ultimate 2008,2008-12-27,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+db795925b0cc43739ed0fd397f164734,UFC - The Ultimate Fighter 8 Finale,2008-12-13,"Palms Casino Resort, Las Vegas, Nevada, United States",False
+8bd8b8eed69e417fb58f2ba6fe35c168,UFC Fight Night 16 - Fight for the Troops 1,2008-12-10,"Crown Coliseum, Fayetteville, North Carolina, United States",False
+8371fb4e37354cb8b1ba4247cf410e10,UFC 91 - Couture vs. Lesnar,2008-11-15,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+5dc41bf06c274ef6af84ed211f72e622,UFC 90 - Silva vs. Cote,2008-10-25,"Allstate Arena, Rosemont, Illinois, United States",False
+b5d45b5d73e145d9b5f4e7529dd97c91,UFC 89 - Bisping vs. Leben,2008-10-18,"National Indoor Arena, Birmingham, West Midlands, England",False
+2af59b9104674827965584466b1ddba4,UFC Fight Night 15 - Diaz vs. Neer,2008-09-17,"Omaha Civic Auditorium, Omaha, Nebraska, United States",False
+2792fb08a9e84f77a25a6890ee5968a1,UFC 88 - Breakthrough,2008-09-06,"Philips Arena, Atlanta, Georgia, United States",False
+87b10323579649f4ad7dab4c5171b934,UFC 87 - Seek and Destroy,2008-08-09,"Target Center, Minneapolis, Minnesota, United States",False
+61906afee45c45538797c6c89ebe19aa,UFC Fight Night 14 - Silva vs. Irvin,2008-07-19,"Palms Casino Resort, Las Vegas, Nevada, United States",False
+73d2c0f718634070ad6b1dc44f458909,UFC 86 - Jackson vs. Griffin,2008-07-05,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+ccce93de10a04f418ecfc4a79a5eca67,UFC - The Ultimate Fighter 7 Finale,2008-06-21,"Palms Casino Resort, Las Vegas, Nevada, United States",False
+8c3c0bf678824ea38e301a4c2884c0bb,UFC 85 - Bedlam,2008-06-07,"O2 Arena, London, England",False
+1c1dbd52aeb54b05baa6de92e4bf314e,UFC 84 - Ill Will,2008-05-24,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+6c513a9f11c849709082086f64faf43d,UFC 83 - Serra vs. St. Pierre 2,2008-04-19,"Bell Centre, Montreal, Quebec, Canada",False
+08373322d7af41ee958ba719e580c744,UFC Fight Night 13 - Florian vs. Lauzon,2008-04-02,"Broomfield Event Center, Broomfield, Colorado, United States",False
+d8ea51104853406f9ab936b27c6576e0,UFC 82 - Pride of a Champion,2008-03-01,"Nationwide Arena, Columbus, Ohio, United States",False
+7059e3c5962f4c9195f538b5d560273e,UFC 81 - Breaking Point,2008-02-02,"MGM Grand Garden Arena, Las Vegas, Nevada, United States",False
+5e44615c2f6f4631a346e7d8fd6a5526,UFC Fight Night 12 - Swick vs. Burkman,2008-01-23,"Palms Casino Resort, Las Vegas, Nevada, United States",False
+abce42e217814ba8924c909c04cea2c7,UFC 80 - Rapid Fire,2008-01-19,"Metro Radio Arena, Newcastle upon Tyne, Tyne and Wear, England",False
+0b121f29d9544476b0c2488ca3c963e5,UFC 79 - Nemesis,2007-12-29,"Mandalay Bay Events Center, Las Vegas, Nevada, United States",False
+590fef7fafd94a3e89cbecba2851d0cb,UFC - The Ultimate Fighter 6 Finale,2007-12-08,"Palms Casino Resort, Las Vegas, Nevada, United States",False
+0ded7e17095b45348c3cca00d386324c,UFC on ESPN 57 - Cannonier vs. Imavov,2024-06-08,"KFC Yum! Center, Louisville, Kentucky, United States",False
+18b0a194367945eeb5247499a72ef582,UFC on ESPN 58 - Perez vs. Taira,2024-06-15,"UFC Apex, Las Vegas, Nevada, United States",False
+fcaaa29162804bf0aec3c09c1e4e985b,UFC on ABC 6 - Whittaker vs. Chimaev,2024-06-22,"Kingdom Arena, Riyadh, Saudi Arabia",False
+388d21751aaf4a0e879c7f359055b648,UFC 303 - McGregor vs. Chandler,2024-06-29,"T-Mobile Arena, Las Vegas, Nevada, United States",False
+35359a36d5d0425fb3866c8b6113b421,UFC on ESPN 59 - Barber vs. Namajunas,2024-07-13,"Ball Arena, Denver, Colorado, United States",False
+1bc636572c034de1980c1060c84d8673,UFC Fight Night - July 20,2024-07-20,"UFC Apex, Las Vegas, Nevada, United States",False
+02a675fda93145e09e8aef5c93094fdb,UFC 304 - Edwards vs. Muhammad 2,2024-07-27,"Co-op Live, Manchester, England",False
+354e4296f86e42a59eb82b16fcb17f8a,UFC on ABC 7 - Sandhagen vs. Nurmagomedov,2024-08-03,"Etihad Arena, Abu Dhabi, United Arab Emirates",False
+1d8dbe7b2eed471d9b156b7f9b4133aa,UFC Fight Night - Aug. 10,2024-08-10,"UFC Apex, Las Vegas, Nevada, United States",False
+84bf3b0914d74edd89f224291ae80b25,UFC 305 - Aug. 17,2024-08-17,"RAC Arena, Perth, Western Australia, Australia",False
+bf99977b7267468f832a03374f1864a3,UFC 306 - Noche UFC,2024-09-14,"The Sphere, Las Vegas, Nevada, United States",False
+60dcb85d1fbf4a919f5d79cae7479164,UFC Fight Night - Gane vs. TBA,2024-09-28,"Accor Arena, Paris, France",False
+55897aba4bb541889da5abdc4f3ff36e,UFC 308 - Oct. 26,2024-10-26,"Etihad Arena, Yas Island, Abu Dhabi, United Arab Emirates",False

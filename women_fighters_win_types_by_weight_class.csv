@@ -1,0 +1,8 @@
+wins_by_ko_tko,wins_by_submission,wins_by_decision,class_weight
+220.0,182.0,263.0,Bantamweight
+254.0,274.0,431.0,Strawweight
+214.0,234.0,333.0,Flyweight
+100.0,39.0,75.0,Featherweight
+16.0,10.0,4.0,Middleweight
+6.0,2.0,2.0,Light Heavyweight
+4.0,18.0,10.0,Lightweight
