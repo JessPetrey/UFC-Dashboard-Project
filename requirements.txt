@@ -1,6 +1,7 @@
 jupyter
 pandas
 numpy
+matplotlib
 
 anyio==4.6.0
 appnope==0.1.4
