@@ -2,6 +2,7 @@ jupyter
 pandas
 numpy
 matplotlib
+seaborn
 
 anyio==4.6.0
 appnope==0.1.4
